@@ -1,23 +1,20 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Zorah</strong> Lähner
+description: PhD Student. Technical University Munich. <a href="https://vision.in.tum.de/">Chair for Computer Vision and Artificial Intelligence</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: scan2.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Informatik 9</p>
+    <p>Boltzmannstr. 3</p>
+    <p>85748 Garching</p>
+    <p>Germany</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I joined the [Computer Vision and Artificial Intelligence Group](https://vision.in.tum.de/){:target="\_blank"} headed by [Prof. Daniel Cremers](https://vision.in.tum.de/members/cremers){:target="\_blank"} at TU Munich in November 2015 as a research assistant and PhD candidate. Before that I received my Computer Science Bachelor's degree from the University of Bonn (in 2013) and my Computer Science Master's degree with distinction from the Technical University Munich (in 2015). During my studies I spend one month (March 2017) at Technion under the supervision of [Prof. Alex Bronstein](https://bron.cs.technion.ac.il){:target="\_blank"} and six months at Facebook Reality Labs under the supervision of [Dr. Tony Tung](https://sites.google.com/site/tony2ng/){:target="\_blank"}. 

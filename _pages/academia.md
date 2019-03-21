@@ -5,7 +5,7 @@ title: academia
 description: 
 ---
 
-## Presentations
+### Presentations
 
 * **Max-Planck Institute Saarbrücken**  
    *DeepWrinkles: Accurate and Realistic Clothing Modeling*  
@@ -35,7 +35,7 @@ description:
    *Efficient Globally Optimal 2D-to-3D Deformable Shape Matching*  
    Invited Talk. February 2, 2016. Santa Clara, USA.
 
-## Reviewer Activities
+### Reviewer Activities
 
 **Conferences/Workshops**  
 CVPR 2016 - 2019, ICCV 2019, BMVC 2016 - 2018, 3DV 2016 - 2018, MVR3D 2017 (ICCV Workshop), GMDL
@@ -44,6 +44,6 @@ CVPR 2016 - 2019, ICCV 2019, BMVC 2016 - 2018, 3DV 2016 - 2018, MVR3D 2017 (ICCV
 **Journals**  
 International Journal of Computer Vision (IJCV), Journal of Visual Communication and Image Representation (JVCI)
 
-## Teaching
+### Teaching
 
 ...

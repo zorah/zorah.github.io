@@ -1,0 +1,8 @@
+@InProceedings{vestner2017kernelmatching,
+   author = 	{M. Vestner and Z. L\"ahner and A. Boyarski and O. Litany and R. Slossberg and T. Remez and E. Rodol\`a and A. M. Bronstein and M. M. Bronstein and R. Kimmel and D. Cremers},
+   title = 	{Efficient Deformable Shape Correspondence via Kernel Matching},
+   booktitle=	{International Conference on 3D Vision (3DV)},
+   year=	{2017},
+   month=	{October},
+   address=	{Qingdao, China},
+}

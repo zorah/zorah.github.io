@@ -1,0 +1,7 @@
+@InProceedings{laehner2016shrec,
+	title 		= "SHREC’16: Matching of Deformable Shapes with Topological Noise",
+	author 		= "Z. L\"ahner and E. Rodola and M. M. Bronstein and D. Cremers and O. Burghard and L. Cosmo and A. Dieckmann and R. Klein and Y. Sahillioglu",
+	booktitle 	= "Proc. of Eurographics Workshop on 3D Object Retrieval (3DOR)",
+	year 		= "2016",
+	month 		= "May",
+}

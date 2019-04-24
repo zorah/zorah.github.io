@@ -8,10 +8,10 @@ profile:
   align: right
   image: scan2.png
   address: >
-    <p>    Informatik 9</p>
-    <p>    Boltzmannstr. 3</p>
-    <p>    85748 Garching</p>
-    <p>    Germany</p>
+    <p>&emsp;Informatik 9</p>
+    <p>&emsp;Boltzmannstr. 3</p>
+    <p>&emsp;85748 Garching</p>
+    <p>&emsp;Germany</p>
 
 news: true
 social: true

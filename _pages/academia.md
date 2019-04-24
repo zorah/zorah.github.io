@@ -2,11 +2,14 @@
 layout: page
 permalink: /academia/
 title: academia
-description: 
+description:
 ---
 
 ### Presentations
 
+* **Technical University of Munich**  
+   *Computer Vision in 3D*  
+   Studieninfotag. March 28, 2019. Garching, Germany.
 * **Max-Planck Institute Saarbrücken**  
    *DeepWrinkles: Accurate and Realistic Clothing Modeling*  
    Invited Talk. February 11, 2019. Saarbrücken, Germany.
@@ -46,4 +49,15 @@ International Journal of Computer Vision (IJCV), Journal of Visual Communication
 
 ### Teaching
 
-...
+* **Diskrete Strukturen** (Lecture for Computer Science Bachelor students)
+   *Teaching Assistant* WS 2018/19
+* **Analysis of Three-Dimensional Shapes** (Lecture for Computer Science Master students)
+   *Teaching Assistant* SS 2017, SS 2016
+* **Shape Analysis and Optimization**  (Seminar for Computer Science and Mathematics Master students)
+   *Supervisor* SS 2018
+* **Image Segmentation and Shape Analysis**  (Seminar for Computer Science Master students)
+   *Supervisor* WS 2016/17
+* **Shape Analysis and Applications in Computer Vision**  (Seminar for Computer Science and Mathematics Master  students)
+   *Supervisor* SS 2016
+* **Logik und Diskrete Strukturen**  (Lecture for Computer Science Bachelor students)
+   *Teaching Assistant* WS 2011/12

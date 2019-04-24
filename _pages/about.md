@@ -6,12 +6,12 @@ description: PhD Student. Technical University Munich. Chair for Computer Vision
 
 profile:
   align: right
-  image: zorah00.png
+  image: scan2.png
   address: >
-    <p>Informatik 9</p>
-    <p>Boltzmannstr. 3</p>
-    <p>85748 Garching</p>
-    <p>Germany</p>
+    <p>    Informatik 9</p>
+    <p>    Boltzmannstr. 3</p>
+    <p>    85748 Garching</p>
+    <p>    Germany</p>
 
 news: true
 social: true

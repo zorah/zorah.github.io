@@ -21,7 +21,7 @@ description:
    Seminar. October 18, 2018. Wadern, Germany.
 * **European Conference on Computer Vision (ECCV) 2018**  
    *DeepWrinkles: Accurate and Realistic Clothing Modeling*  
-   Oral Presentation. September 10, 2018. Munich, Germany.
+   Oral Presentation [(video)](https://www.youtube.com/watch?v=g2hmNE1AxjQ&list=PLqHzsfkXuhrvsjPdysCD72D9iFLH-VFgT&index=4). September 10, 2018. Munich, Germany.
 * **Rank Prize Funds Symposium on Geometry and Uncertainty in Deep Learning**  
    *Accurate and Realistic Cloth Modeling with Real-Data*  
    Symposium. August 22, 2018. Grasmere, UK.

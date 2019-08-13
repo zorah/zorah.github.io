@@ -21,4 +21,4 @@ I joined the [Computer Vision and Artificial Intelligence Group](https://vision.
 
 ### Research Interests
 
-I am interested in anything related to 3D Geometry Processing, like...
+I am interested in anything related to 3D Shape Analysis, especially Shape Matching and Modeling. I also work on realistic and efficient Clothing Animation and Reconstruction. 

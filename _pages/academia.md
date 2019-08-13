@@ -7,6 +7,9 @@ description:
 
 ### Presentations
 
+* **Sapienza Università di Roma**  
+   *Divergence-Free Shape Correspondence by Deformation*  
+   Invited Talk. May 16, 2019. Rome, Italy.
 * **Technical University of Munich**  
    *Computer Vision in 3D*  
    Studieninfotag. March 28, 2019. Garching, Germany.
@@ -41,7 +44,7 @@ description:
 ### Reviewer Activities
 
 **Conferences/Workshops**  
-CVPR 2016 - 2019, ICCV 2019, BMVC 2016 - 2018, 3DV 2016 - 2018, MVR3D 2017 (ICCV Workshop), GMDL
+CVPR 2016 - 2019, ICCV 2019, BMVC 2016 - 2018, 3DV 2016 - 2019, MVR3D 2017 (ICCV Workshop), GMDL
 2017 - 2018 (ICCV/ECCV Workshop), 3DRWi 2018 (ECCV Workshop)
 
 **Journals**  

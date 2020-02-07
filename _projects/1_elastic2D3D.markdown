@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Elastic 2D-3D Matching
-description: Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, CVPR 2016
+title: Elastic2D3D
+description: Code & Data
 img: /assets/img/laehner2016elastic2D3D.png
+redirect: https://vision.in.tum.de/~laehner/Elastic2D3D/
 ---
 
 <div class="img_row">

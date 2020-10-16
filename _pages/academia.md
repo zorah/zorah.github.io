@@ -7,6 +7,12 @@ description:
 
 ### Presentations
 
+* **Women in Vision Siegen**  
+   *Continuous Non-Rigid Shape Correspondence*  
+   Invited Talk. Oct 9, 2020. Siegen, Germany.
+* **Ecole Polytechnique Paris (virtual)**  
+   *Smooth Shells: Multi-Scale Shape Registration with Functional Maps*  
+   Invited Talk. May 12, 2020.
 * **Sapienza Università di Roma**  
    *Divergence-Free Shape Correspondence by Deformation*  
    Invited Talk. May 16, 2019. Rome, Italy.
@@ -44,14 +50,16 @@ description:
 ### Reviewer Activities
 
 **Conferences/Workshops**  
-CVPR 2016 - 2020, ICCV 2019, ECCV 2020, SIGGRAPH 2020, BMVC 2016 - 2018, 3DV 2016 - 2019, MVR3D 2017 (ICCV Workshop), GMDL
+CVPR 2016 - 2020, ICCV 2019, ECCV 2020, SIGGRAPH 2020, NeurIPS 2019-2020, BMVC 2016 - 2018, 3DV 2016 - 2020, MVR3D 2017 (ICCV Workshop), GMDL
 2017 - 2018 (ICCV/ECCV Workshop), 3DRWi 2018 (ECCV Workshop)
 
 **Journals**  
-International Journal of Computer Vision (IJCV), Journal of Visual Communication and Image Representation (JVCI)
+International Journal of Computer Vision (IJCV), Journal of Visual Communication and Image Representation (JVCI), Journal of Mathematical Imaging and Vision (JMIV)
 
 ### Teaching
 
+* **Recent Advances in 3D Computer Vision**  (Seminar for Computer Science Master students)
+   *Supervisor* WS 2020/21
 * **Shape Analysis and Applications in Computer Vision**  (Seminar for Computer Science Master students)
    *Supervisor* SS 2020
 * **Diskrete Strukturen** (Lecture for Computer Science Bachelor students)

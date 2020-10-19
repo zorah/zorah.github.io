@@ -5,6 +5,8 @@ description: CVPR 2020
 img: /assets/img/eisenberger2020smoothshells.png
 ---
 
+Marvin Eisenberger, *Zorah Lähner*, Daniel Cremers
+
 <img class="col two teaser" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser" />
 
 **Abstract**
@@ -21,7 +23,7 @@ other automatic matching methods in real world applications.
 
 **Resources**
 
-[(arxiv)](https://arxiv.org/abs/1905.12512) [(github)](https://github.com/marvin-eisenberger/smooth-shells) [(video)](../assets/videos/eisenberger2020smoothshells.mp4)
+[(pdf + supp)](../assets/pdfs/eisenberger2020smoothshells.pdf) [(arxiv)](https://arxiv.org/abs/1905.12512) [(github)](https://github.com/marvin-eisenberger/smooth-shells) [(video)](../assets/videos/eisenberger2020smoothshells.mp4)
 
 **Bibtex**
 

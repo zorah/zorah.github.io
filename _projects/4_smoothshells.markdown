@@ -5,7 +5,7 @@ description: CVPR 2020
 img: /assets/img/eisenberger2020smoothshells.png
 ---
 
-<img class="col teaser left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser" />
+<img class="col teaser" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser" />
 
 **Abstract**
 

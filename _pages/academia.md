@@ -5,6 +5,15 @@ title: academia
 description:
 ---
 
+### Education
+
+* **PhD (Dr. rer. nat.) in Informatics**
+   *Technical University Munich*, thesis submitted.
+* **Master of Science in Informatics** with distinction  
+   *Technical University Munich*, 2015.
+* **Bachelor of Science in Informatics**  
+   *University of Bonn*, 2013.
+
 ### Presentations
 
 * **Women in Vision Siegen**  

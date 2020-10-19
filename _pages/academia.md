@@ -7,7 +7,7 @@ description:
 
 ### Education
 
-* **PhD (Dr. rer. nat.) in Informatics**
+* **PhD (Dr. rer. nat.) in Informatics**  
    *Technical University Munich*, thesis submitted.
 * **Master of Science in Informatics** with distinction  
    *Technical University Munich*, 2015.

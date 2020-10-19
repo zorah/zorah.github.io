@@ -6,7 +6,7 @@ img: /assets/img/eisenberger2020smoothshells.png
 ---
 
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser"/>
 </div>
 <div class="col three caption">
     Our multi-scale alignment method also works for non-isometries.
@@ -24,9 +24,9 @@ our pipeline produces smoother, more realistic results than
 other automatic matching methods in real world applications.
 
 **Resources**
+
 [(arxiv)](https://arxiv.org/abs/1905.12512) [(github)](https://github.com/marvin-eisenberger/smooth-shells) [(video)](../assets/videos/eisenberger2020smoothshells.mp4)
 
 **Bibtex**
-```
+
 source('../assets/bibtex/eisenberger2020smoothshells.txt')
-```

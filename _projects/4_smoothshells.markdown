@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Smooth Shells
+title: Smooth Shells: Multi-Scale Shape Registration with Functional Maps
 description: CVPR 2020
 img: /assets/img/eisenberger2020smoothshells.png
 ---
 
-<img class="col three left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser"/>
+<img class="teaser left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser"/>
 <div class="col three caption">
     Our multi-scale alignment method also works for non-isometries.
 </div>
@@ -29,7 +29,7 @@ other automatic matching methods in real world applications.
 **Bibtex**
 
     @InProceedings{eisenberger2020smoothshells,
-      author       = "M. Eisenberger and Z. L\"ahner and D. Cremers",
+      author       = "Marvin Eisenberger and Zorah L\"ahner and Daniel Cremers",
       title        = "Smooth Shells: Multi-Scale Shape Registration with Functional Maps",
       booktitle    = "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
       month        = "June",

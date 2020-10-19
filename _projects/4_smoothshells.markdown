@@ -5,14 +5,13 @@ description: CVPR 2020
 img: /assets/img/eisenberger2020smoothshells.png
 ---
 
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser"/>
-</div>
+<img class="col three left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser"/>
 <div class="col three caption">
     Our multi-scale alignment method also works for non-isometries.
 </div>
 
 **Abstract**
+
 We propose a novel 3D shape correspondence method
 based on the iterative alignment of so-called smooth shells.
 Smooth shells define a series of coarse-to-fine shape approximations designed to work well with multiscale algorithms. The main idea is to first align rough approximations of the geometry and then add more and more details to refine the correspondence. We fuse classical shape
@@ -29,4 +28,10 @@ other automatic matching methods in real world applications.
 
 **Bibtex**
 
-source('../assets/bibtex/eisenberger2020smoothshells.txt')
+    @InProceedings{eisenberger2020smoothshells,
+      author       = "M. Eisenberger and Z. L\"ahner and D. Cremers",
+      title        = "Smooth Shells: Multi-Scale Shape Registration with Functional Maps",
+      booktitle    = "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      month        = "June",
+      year         = "2020",
+    }

@@ -3,7 +3,7 @@ layout: page
 title: Smooth Shells
 title_long: Smooth Shells - Multi-Scale Shape Registration with Functional Maps
 description: CVPR 2020
-img: /assets/img/eisenberger2020smoothshells.png
+img: /assets/previews/eisenberger2020smoothshells.png
 ---
 
 Marvin Eisenberger, *Zorah Lähner*, Daniel Cremers

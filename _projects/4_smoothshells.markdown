@@ -12,7 +12,7 @@ Marvin Eisenberger, *Zorah Lähner*, Daniel Cremers
 
 **Abstract**
 
-We propose a novel 3D shape correspondence method
+    We propose a novel 3D shape correspondence method
 based on the iterative alignment of so-called smooth shells.
 Smooth shells define a series of coarse-to-fine shape approximations designed to work well with multiscale algorithms. The main idea is to first align rough approximations of the geometry and then add more and more details to refine the correspondence. We fuse classical shape
 registration with Functional Maps by embedding the input shapes into an intrinsic-extrinsic product space. Moreover, we disambiguate intrinsic symmetries by applying a

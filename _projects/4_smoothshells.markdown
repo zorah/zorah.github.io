@@ -5,10 +5,7 @@ description: CVPR 2020
 img: /assets/img/eisenberger2020smoothshells.png
 ---
 
-<img class="teaser left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser" />
-<div class="col three caption">
-    Our multi-scale alignment method also works for non-isometries.
-</div>
+<img class="col teaser left" src="{{ site.baseurl }}/assets/img/eisenberger2020smoothshells.png" alt="Teaser Image" title="teaser" />
 
 **Abstract**
 

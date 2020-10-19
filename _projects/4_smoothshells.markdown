@@ -24,7 +24,7 @@ other automatic matching methods in real world applications.
 
 **Resources**
 
-[(pdf + supp)](../assets/pdfs/eisenberger2020smoothshells.pdf) [(arxiv)](https://arxiv.org/abs/1905.12512) [(github)](https://github.com/marvin-eisenberger/smooth-shells) [(video)](../assets/videos/eisenberger2020smoothshells.mp4)
+[(pdf + supp)]({{ site.baseurl }}/pdfs/eisenberger2020smoothshells.pdf) [(arxiv)](https://arxiv.org/abs/1905.12512) [(github)](https://github.com/marvin-eisenberger/smooth-shells) [(video)]({{ site.baseurl }}/videos/eisenberger2020smoothshells.mp4)
 
 **Bibtex**
 

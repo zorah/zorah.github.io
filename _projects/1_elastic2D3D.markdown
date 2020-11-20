@@ -19,12 +19,17 @@ img: /assets/img/laehner2016elastic2D3D.png
 [(pdf)]({{ site.baseurl }}/assets/pdfs/lrsbc16.pdf) [(arxiv)](https://arxiv.org/abs/1601.06070) [(github)](https://github.com/zorah/Elastic2D3D)
 
 Data
+
 [(dataset parameter tuning, 2.7GB)](https://www.dropbox.com/s/b8pp46ssbm774pf/faust.zip?dl=0) based on [MPI FAUST](http://faust.is.tue.mpg.de/)
+
 [(dataset retrieval, 2.9GB)](https://www.dropbox.com/s/bfqghkp24gk7ni6/retrieval.zip?dl=0) based on [TOSCA high-res](http://tosca.cs.technion.ac.il/book/resources_data.html)
+
 [(retrieval matchings, 267kB)](https://www.dropbox.com/s/kkd2bfbo42ze6sb/results.zip?dl=0)
 
 Code
+
 [(matching code, 281MB)](https://www.dropbox.com/s/gejbfyfnuorerc9/code_Elastic2D3D.zip?dl=0) Matlab/C++ Code, example with precomputed data reproducing one matching
+
 [(retrieval code, 270kB)](https://www.dropbox.com/s/ymcku6c21d93bdp/retrieval_code_2D3D.zip?dl=0) Matlab Code, code outline to run retrieval on a new data set, needs matching code
 
 **Bibtex**

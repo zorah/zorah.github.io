@@ -23,8 +23,8 @@ based on the iterative alignment of so-called smooth shells. Smooth shells defin
 
     @InProceedings{eisenberger2020smoothshells,
       author       = "Marvin Eisenberger and Zorah L\"ahner and Daniel Cremers",
-      title        = "Smooth Shells: Multi-Scale Shape Registration with Functional Maps",
-      booktitle    = "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      title        = { Smooth Shells: Multi-Scale Shape Registration with Functional Maps },
+      booktitle    = { IEEE Conference on Computer Vision and Pattern Recognition (CVPR) },
       month        = "June",
       year         = "2020",
     }

@@ -23,7 +23,7 @@ Matthias Vestner\*, *Zorah Lähner*\*, Amit Boyarski\*, Or Litany, Ron Slossberg
 **Bibtex**
 
     @InProceedings{vestner17kernel,
-      author = {Matthias Vestner and Zorah L\\"ahner and Amit Boyarski and Or Litany and Ron Slossberg and Tal Remez and Emanuele Rodolà and Alex M. Bronstein and Michael M. Bronstein and Ron Kimmel and Daniel Cremers},
+      author = {Matthias Vestner and Zorah L\"ahner and Amit Boyarski and Or Litany and Ron Slossberg and Tal Remez and Emanuele Rodolà and Alex M. Bronstein and Michael M. Bronstein and Ron Kimmel and Daniel Cremers},
       title = {Efficient Deformable Shape Correspondence via Kernel Matching},
       booktitle = {International Conference on 3D Vision (3DV)},
       year = {2017},

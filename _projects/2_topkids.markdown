@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SHREC'16 Topology
-title_long: SHREC’16: Matching of Deformable Shapes with Topological Noise
+title_long: SHREC16: Matching of Deformable Shapes with Topological Noise
 description: 3DOR 2016
 img: /assets/img/laehner2016shrec.png
 ---

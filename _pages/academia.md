@@ -85,19 +85,19 @@ International Journal of Computer Vision (IJCV), Journal of Visual Communication
 
 ### Teaching
 
-* **Recent Advances in 3D Computer Vision**  (Seminar for Computer Science Master students)
+* **Recent Advances in 3D Computer Vision**  (Seminar for Computer Science Master students)  
    *Supervisor* WS 2020/21
-* **Shape Analysis and Applications in Computer Vision**  (Seminar for Computer Science Master students)
+* **Shape Analysis and Applications in Computer Vision**  (Seminar for Computer Science Master students)  
    *Supervisor* SS 2020
-* **Diskrete Strukturen** (Lecture for Computer Science Bachelor students)
+* **Diskrete Strukturen** (Lecture for Computer Science Bachelor students)  
    *Teaching Assistant* WS 2018/19
-* **Analysis of Three-Dimensional Shapes** (Lecture for Computer Science Master students)
+* **Analysis of Three-Dimensional Shapes** (Lecture for Computer Science Master students)  
    *Teaching Assistant* SS 2017, SS 2016
-* **Shape Analysis and Optimization**  (Seminar for Computer Science and Mathematics Master students)
+* **Shape Analysis and Optimization**  (Seminar for Computer Science and Mathematics Master students)  
    *Supervisor* SS 2018
-* **Image Segmentation and Shape Analysis**  (Seminar for Computer Science Master students)
+* **Image Segmentation and Shape Analysis**  (Seminar for Computer Science Master students)  
    *Supervisor* WS 2016/17
-* **Shape Analysis and Applications in Computer Vision**  (Seminar for Computer Science and Mathematics Master  students)
+* **Shape Analysis and Applications in Computer Vision**  (Seminar for Computer Science and Mathematics Master  students)  
    *Supervisor* SS 2016
-* **Logik und Diskrete Strukturen**  (Lecture for Computer Science Bachelor students)
+* **Logik und Diskrete Strukturen**  (Lecture for Computer Science Bachelor students)  
    *Teaching Assistant* WS 2011/12

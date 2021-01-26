@@ -16,18 +16,18 @@ description:
 
 ### Research Positions
 
-* **Postdoctoral Researcher** supervised by Prof. Michael Moeller
-    *University of Siegen*, since Feb 2021
-* **PhD Student** supervised by Prof. Daniel Cremers
-    *Technical University of Munich*, Nov 2015 - Jan 2021
-* **Research Intern** supervised by Dr. Roberto Mecca
-    *Toshiba Research Europe, Cambridge*, Sep 2019 - Dec 2019
-* **Visiting Researcher** supervised by Prof. Emanuele Rodolà
-    *Sapienza Università di Roma*, Apr 2019 - Jun 2019
-* **Research Intern** supervised by Dr. Tony Tung
-    *Facebook Reality Labs, Sausalito*, Sep 2017 - Feb 2018
-* **Visiting Researcher** supervised by Prof. Alex Bronstein
-    *Technion - Israel Institute of Technology*, Feb 2017 - Mar 2017
+* **Postdoctoral Researcher** supervised by Prof. Michael Moeller  
+   *University of Siegen*, since Feb 2021
+* **PhD Student** supervised by Prof. Daniel Cremers  
+   *Technical University of Munich*, Nov 2015 - Jan 2021
+* **Research Intern** supervised by Dr. Roberto Mecca  
+   *Toshiba Research Europe, Cambridge*, Sep 2019 - Dec 2019
+* **Visiting Researcher** supervised by Prof. Emanuele Rodolà  
+   *Sapienza Università di Roma*, Apr 2019 - Jun 2019
+* **Research Intern** supervised by Dr. Tony Tung  
+   *Facebook Reality Labs, Sausalito*, Sep 2017 - Feb 2018
+* **Visiting Researcher** supervised by Prof. Alex Bronstein  
+   *Technion - Israel Institute of Technology*, Feb 2017 - Mar 2017
 
 ### Presentations
 

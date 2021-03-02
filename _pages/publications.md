@@ -7,6 +7,7 @@ description: In Journals, Workshops and Conferences.
 
 ## Conference Papers
 
+| <img src="../assets/img/gao20multi.png" width="100px" /> | **Isometric Multi-Shape Matching** (Maolin Gao, *Zorah Lähner*, Johan Thunberg, Daniel Cremers, Florian Bernard) In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [(arxiv)](https://arxiv.org/abs/2012.02689) |
 | <img src="../assets/img/holzschuh20simanneal.png" width="100px" /> | **Simulated Annealing for 3D Shape Correspondence** (Benjamin Holzschuh, *Zorah Lähner*, Daniel Cremers) In International Conference on 3D Vision (3DV), 2020. |
 | <img src="../assets/img/aygun20heatkernel.png" width="100px" /> | **Unsupervised Dense Shape Correspondence using Heat Kernels** (Mehmet Aygün, *Zorah Lähner*, Daniel Cremers) In International Conference on 3D Vision (3DV), 2020. |
 | <img src="../assets/img/eisenberger2020smoothshells.png" width="100px" /> | **Smooth Shells: Multi-Scale Shape Registration with Functional Maps** (Marvin Eisenberger, *Zorah Lähner*, Daniel Cremers) In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. [(bibtex)](../assets/bibtex/eisenberger2020smoothshells.txt) [(arxiv)](https://arxiv.org/abs/1905.12512) |

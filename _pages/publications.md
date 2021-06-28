@@ -5,11 +5,16 @@ title: publications
 description: In Journals, Workshops and Conferences.
 ---
 
+## Preprints
+
+| <img src="../assets/img/gandikota2021trainingorarchitecture.png" width="100px" /> | **Training or Architecture? How to Incorporate Invariance in Neural Networks** (Kanchana Vaishnavi Gandikota, Jonas Geiping, *Zorah Lähner*, Adam Czapliński, Michael Moeller) arXiv, 2021. [(arxiv)](https://arxiv.org/abs/2106.10044) |
+| <img src="../assets/img/seelbach2021qmatch.png" width="100px" /> | **Q-Match: Iterative Shape Matching via Quantum Annealing** (Marcel Seelbach Benkner, *Zorah Lähner*, Vladislav Golyanik, Christof Wunderlich, Christian Theobalt, Michael Moeller) arXiv, 2021. [(arxiv)](https://arxiv.org/abs/2105.02878) |
+
 ## Conference Papers
 
 | <img src="../assets/img/gao21multi.png" width="100px" /> | **Isometric Multi-Shape Matching** (Maolin Gao, *Zorah Lähner*, Johan Thunberg, Daniel Cremers, Florian Bernard) In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. [(arxiv)](https://arxiv.org/abs/2012.02689) |
-| <img src="../assets/img/holzschuh20simanneal.png" width="100px" /> | **Simulated Annealing for 3D Shape Correspondence** (Benjamin Holzschuh, *Zorah Lähner*, Daniel Cremers) In International Conference on 3D Vision (3DV), 2020. |
-| <img src="../assets/img/aygun20heatkernel.png" width="100px" /> | **Unsupervised Dense Shape Correspondence using Heat Kernels** (Mehmet Aygün, *Zorah Lähner*, Daniel Cremers) In International Conference on 3D Vision (3DV), 2020. |
+| <img src="../assets/img/holzschuh20simanneal.png" width="100px" /> | **Simulated Annealing for 3D Shape Correspondence** (Benjamin Holzschuh, *Zorah Lähner*, Daniel Cremers) In International Conference on 3D Vision (3DV), 2020. [(pdf)](../assets/pdfs/holzschuh20simanneal.pdf) |
+| <img src="../assets/img/aygun20heatkernel.png" width="100px" /> | **Unsupervised Dense Shape Correspondence using Heat Kernels** (Mehmet Aygün, *Zorah Lähner*, Daniel Cremers) In International Conference on 3D Vision (3DV), 2020. [(pdf)](../assets/pdfs/aygun2020heatkernel.pdf) |
 | <img src="../assets/img/eisenberger2020smoothshells.png" width="100px" /> | **Smooth Shells: Multi-Scale Shape Registration with Functional Maps** (Marvin Eisenberger, *Zorah Lähner*, Daniel Cremers) In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. [(bibtex)](../assets/bibtex/eisenberger2020smoothshells.txt) [(arxiv)](https://arxiv.org/abs/1905.12512) |
 | <img src="../assets/img/laehner2018deepwrinkles.png" width="100px" /> | **DeepWrinkes: Accurate and Realistic Clothing Modeling** (*Zorah Lähner*, Daniel Cremers, Tony Tung) In European Conference on Computer Vision (ECCV), 2018. [(bibtex)](../assets/bibtex/laehner2018deepwrinkles.txt) [(pdf)](../assets/pdfs/laehner2018deepwrinkles.pdf) [(video)](https://www.youtube.com/watch?v=g2hmNE1AxjQ&list=PLqHzsfkXuhrvsjPdysCD72D9iFLH-VFgT&index=4) [(homepage)](https://research.fb.com/publications/deepwrinkles-accurate-and-realistic-clothing-modeling/) |
 | <img src="../assets/img/vestner2017kernel.png" width="100px" /> | **Efficient Deformable Shape Correspondence via Kernel Matching** (Matthias Vestner, *Zorah Lähner*, Amit Boyarski, Or Litany, Ron Slossberg, Tal Remez, Emanuele Rodolà, Alex M. Bronstein, Michael M. Bronstein, Ron Kimmel, Daniel Cremers) In International Conference on 3D Vision (3DV), 2017. [(bibtex)](../assets/bibtex/vestner2017kernelmatching.txt) [(pdf)](../assets/pdfs/kernel17.pdf) |

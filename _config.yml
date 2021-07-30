@@ -1,6 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+theme: academic
 name: Zorah Lähner
 email: zorah.laehner@uni-siegen.de
 description: > # this means to ignore newlines until "url:"

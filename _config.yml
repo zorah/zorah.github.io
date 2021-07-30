@@ -15,6 +15,15 @@ baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
+# Academic Test
+# -----------------------------------------------------------------------------
+
+email: zorah.laehner@uni-siegen.de
+curriculum:
+  name: Publications
+  url: _pages/publications.md
+
+# -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: zorah # your GitHub user name

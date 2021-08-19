@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2016-06-01
 venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'http://zorah.github.io/files/pdfs/laehner2016elastic2D3D.pdf'
-authors: '**Zorah Lähner**, Emanuele Rodolà, Frank R. Schmidt, Michael M. Bronstein, Daniel Cremers'
+authors: '<b>Zorah Lähner</b>, Emanuele Rodolà, Frank R. Schmidt, Michael M. Bronstein, Daniel Cremers'
 teaser: /previews/laehner2016elastic2D3D.png
 arxiv: 'https://arxiv.org/abs/1601.06070'
 code: https://github.com/zorah/Elastic2D3D

@@ -13,9 +13,11 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
+
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
     {% if post.teaser %}
-      <div class="archive__item-teaser">
+      <div width="200px" class="archive__item-teaser">
         <img width="200px" src=
           {% if teaser contains "://" %}
             "{{ post.teaser }}"
@@ -53,4 +55,5 @@
     {% endif %}
 
   </article>
+
 </div>

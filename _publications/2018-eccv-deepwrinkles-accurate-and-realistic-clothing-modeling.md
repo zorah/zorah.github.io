@@ -14,11 +14,11 @@ bibtex: true
 
 {{ page.authors }}
 
-<img class="col two teaser" src="../images/previews/laehner2018deepwrinkles.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/laehner2018deepwrinkles.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 
-> We propose the first algorithm for non-rigid 2D-to-3D shape matching, where the input is a 2D query shape as well as a 3D target shape and the output is a continuous matching curve represented as a closed contour on the 3D shape. We cast the problem as finding the shortest circular path on the product 3-manifold of the two shapes. We prove that the optimal matching can be computed in polynomial time with a (worst-case) complexity of O(mn^2 log(n)), where m and n denote the number of vertices on the 2D and the 3D shape respectively. Quantitative evaluation confirms that the method provides excellent results for sketch-based deformable 3D shape retrieval.
+> We present a novel method to generate accurate and realistic clothing deformation from real data capture. Previous methods for realistic cloth modeling mainly rely on intensive computation of physics-based simulation (with numerous heuristic parameters), while models reconstructed from visual observations typically suffer from lack of geometric details. Here, we propose an original framework consisting of two modules that work jointly to represent global shape deformation as well as surface details with high fidelity. Global shape deformations are recovered from a subspace model learned from 3D data of clothed people in motion, while high frequency details are added to normal maps created using a conditional Generative Adversarial Network whose architecture is designed to enforce realism and temporal consistency. This leads to unprecedented high-quality rendering of clothing deformation sequences, where fine wrinkles from (real) high resolution observations can be recovered. In addition, as the model is learned independently from body shape and pose, the framework is suitable for applications that require retargeting (e.g., body animation). Our experiments show original high quality results with a flexible model. We claim an entirely data-driven approach to realistic cloth wrinkle generation is possible.
 
 
 ## Bibtex

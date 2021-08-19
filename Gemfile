@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'eventmachine', :git => 'git://github.com/eventmachine/eventmachine.git', :branch => 'master'
+    gem 'academic'
     gem 'github-pages'
     gem 'jekyll'
     gem 'jekyll-email-protect'
@@ -7,6 +9,5 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jemoji'
     gem 'unicode_utils'
-    gem 'academic'
     gem 'jekyll-data'
 end

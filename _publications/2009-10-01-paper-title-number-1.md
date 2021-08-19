@@ -11,7 +11,7 @@ teaser: /previews/laehner2016elastic2D3D.png
 arxiv: 'https://arxiv.org/abs/1601.06070'
 code: https://github.com/zorah/Elastic2D3D
 ---
-<img class="col two teaser" src="{{ site.baseurl }}{{ post.teaser }}" alt="Teaser Image" title="teaser" />
+<img class="col two teaser" src="{{ site.baseurl }}{{ teaser }}" alt="Teaser Image" title="teaser" />
 
 **Abstract**
 
@@ -19,23 +19,23 @@ code: https://github.com/zorah/Elastic2D3D
 
 **Resources**
 
-{% if post.paperurl %}
-    <a href=" {{ post.paperurl }} ">[pdf]</a>
+{% if paperurl %}
+    <a href=" {{ paperurl }} ">[pdf]</a>
 {% endif %}
-{% if post.arxiv %}
-    <a href=" {{ post.arxiv }} ">[arxiv]</a>
+{% if arxiv %}
+    <a href=" {{ arxiv }} ">[arxiv]</a>
 {% endif %}
-{% if post.code %}
-    <a href=" {{ post.code }} ">[code]</a>
+{% if code %}
+    <a href=" {{ code }} ">[code]</a>
 {% endif %}
-{% if post.video %}
-    <a href=" {{ post.video }} ">[video]</a>
+{% if video %}
+    <a href=" {{ video }} ">[video]</a>
 {% endif %}
-{% if post.poster %}
-    <a href=" {{ post.poster }} ">[video]</a>
+{% if poster %}
+    <a href=" {{ poster }} ">[video]</a>
 {% endif %}
-{% if post.bibtex %}
-    <a href=" {{ post.bibtex }} ">[bibtex]</a>
+{% if bibtex %}
+    <a href=" {{ bibtex }} ">[bibtex]</a>
 {% endif %}
 
 Data

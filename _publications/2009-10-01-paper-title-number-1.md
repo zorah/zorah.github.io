@@ -21,23 +21,21 @@ bibtex: true
 **Resources**
 
 {% if page.paperurl %}
-    <a href=" {{ page.paperurl }} ">[pdf]</a>
+<a href=" {{ page.paperurl }} ">[pdf]</a>
 {% endif %}
-{% if arxiv %}
-    <a href=" {{ arxiv }} ">[arxiv]</a>
+{% if page.arxiv %}
+<a href=" {{ page.arxiv }} ">[arxiv]</a>
 {% endif %}
-{% if code %}
-    <a href=" {{ code }} ">[code]</a>
+{% if page.code %}
+<a href=" {{ page.code }} ">[github]</a>
 {% endif %}
-{% if video %}
-    <a href=" {{ video }} ">[video]</a>
+{% if page.video %}
+<a href=" {{ page.video }} ">[video]</a>
 {% endif %}
 {% if poster %}
-    <a href=" {{ poster }} ">[video]</a>
+<a href=" {{ page.poster }} ">[video]</a>
 {% endif %}
-{% if bibtex %}
-    <a href=" {{ bibtex }} ">[bibtex]</a>
-{% endif %}
+
 
 Data
 
@@ -47,7 +45,7 @@ Data
 
 [(retrieval matchings, 267kB)](https://www.dropbox.com/s/kkd2bfbo42ze6sb/results.zip?dl=0)
 
-Code
+Additional Code
 
 [(matching code, 281MB)](https://www.dropbox.com/s/gejbfyfnuorerc9/code_Elastic2D3D.zip?dl=0) Matlab/C++ Code, example with precomputed data reproducing one matching
 

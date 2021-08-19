@@ -1,9 +1,0 @@
-@article{rodola2018funmaprep,
- title 		= {Functional Maps Representation on Product Manifolds},
- author 	=  {Rodol\`a, Emanuele and L\"ahner, Zorah and Bronstein, Alex M. and Bronstein, Michael M. and Solomon, Justin},
- journal 	= {{Computer Graphics Forum}},
- volume 	= 38,
- issue 		= 1,
- year 		= {2019},
- note 		= {Presented at Symposium on Geometry Processing (SGP)},
-}

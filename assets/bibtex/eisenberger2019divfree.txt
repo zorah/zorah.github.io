@@ -1,6 +1,0 @@
-@InProceedings{eisenberger2019divfree,
-  author       = "Marvin Eisenberger and Zorah L\"ahner and Daniel Cremers",
-  title        = "Divergence-Free Shape Correspondence by Deformation",
-  booktitle    = "Computer Graphics Forum (CGF), Proceedings of Symposium on Geometry Processing",
-  year         = "2019",
-}

@@ -1,7 +1,0 @@
-@InProceedings{laehner2016elastic2D3D,
-  author       = "Z. L\"ahner and E. Rodola and F. R. Schmidt and M. M. Bronstein and D. Cremers",
-  title        = "Efficient Globally Optimal 2D-to-3D Deformable Shape Matching",
-  booktitle    = "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
-  month        = "May",
-  year         = "2016",
-}

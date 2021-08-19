@@ -1,7 +1,0 @@
-@InProceedings{eisenberger2020smoothshells,
-  author       = "M. Eisenberger and Z. L\"ahner and D. Cremers",
-  title        = "Smooth Shells: Multi-Scale Shape Registration with Functional Maps",
-  booktitle    = "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
-  month        = "June",
-  year         = "2020",
-}

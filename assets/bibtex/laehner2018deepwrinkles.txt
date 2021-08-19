@@ -1,7 +1,0 @@
-@InProceedings{laehner2018deepwrinkles,
-  author 	= "Z. L\"ahner and D. Cremers and T. Tung",
-  title 	= "DeepWrinkles: Accurate and Realistic Clothing Modeling",
-  booktitle    	= "European Conference on Computer Vision (ECCV)",
-  year 		= "2018",
-  month 	= "September",}
-}

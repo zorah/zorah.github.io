@@ -1,15 +1,32 @@
 ---
-title: "Paper Title Number 2"
+title: "Efficient Deformable Shape Correspondence via Kernel Matching"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2017-3dv-efficient-deformable-shape-correspondence-via-kernel-matching
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2017-10-01
+venue: 'International Conference on 3D Vision (3DV)'
+paperurl: 'http://zorah.github.io/files/pdfs/vestner17kernel.pdf'
+authors: 'Matthias Vestner*, <b>Zorah Lähner</b>*, Amit Boyarski, Or Litany, Ron Slossberg, Tal Remez, Emanuele Rodolà, Alex M. Bronstein, Michael M. Bronsteins, Ron Kimmel, Daniel Cremers'
+teaser: /previews/vestner2017kernel.png
+arxiv: 'https://arxiv.org/abs/1707.08991'
+code: https://github.com/zorah/KernelMatching
+bibtex: true
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+{{ page.authors }}
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+<img class="pub_teaser" src="{{ site.url }}/previews/vestner2017kernel.png" alt="Teaser Image" title="teaser" />
+
+## Abstract
+
+> We present a method to match three dimensional shapes under non-isometric deformations, topology changes and partiality. We formulate the problem as matching between a set of pair-wise and point-wise descriptors, imposing a continuity prior on the mapping, and propose a projected descent optimization procedure inspired by difference of convex functions (DC) programming.
+
+## Bibtex
+
+    @InProceedings{vestner2017kernel,
+        author = 	{M. Vestner and Z. L\"ahner and A. Boyarski and O. Litany and R. Slossberg and T. Remez and E. Rodol\`a and A. M. Bronstein and M. M. Bronstein and R. Kimmel and D. Cremers},
+        title = 	{Efficient Deformable Shape Correspondence via Kernel Matching},
+        booktitle=	{International Conference on 3D Vision (3DV)},
+        year=	{2017},
+        month=	{October},
+    }

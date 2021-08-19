@@ -6,12 +6,12 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2016-05-01
 venue: 'Eurographics Workshop on 3D Object Retrieval (3DOR)'
 paperurl: 'http://zorah.github.io/files/pdfs/laehner2016topkids.pdf'
-authors: '<b>Zorah Lähner</b>, Emanuele Rodolà, Michael M. Bronstein, Daniel Cremers'
+authors: '<b>Zorah Lähner</b>, Emanuele Rodolà, Michael M. Bronstein, Daniel Cremers, Oliver Burghard, Luca Cosmo, Alexander Dieckmann, Reinhard Klein, Yusuf Sahillioğlu'
 teaser: /previews/laehner2016shrec.png
 bibtex: true
 ---
 
-<b>Zorah Lähner</b>, Emanuele Rodolà, Michael M. Bronstein, Daniel Cremers, Oliver Burghard, Luca Cosmo, Alexander Dieckmann, Reinhard Klein, Yusuf Sahillioğlu
+{{ page.authors }}
 
 <img class="pub_teaser" src="{{ site.url }}/previews/laehner2016shrec.png" alt="Teaser Image" title="teaser" />
 

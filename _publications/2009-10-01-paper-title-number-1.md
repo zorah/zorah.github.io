@@ -12,7 +12,7 @@ arxiv: 'https://arxiv.org/abs/1601.06070'
 code: https://github.com/zorah/Elastic2D3D
 bibtex: true
 ---
-<img class="col two teaser" src="{{ site.url }}{{ page.teaser }}" alt="Teaser Image" title="teaser" />
+<img class="col two teaser" src="{{ url }}{{ page.teaser }}" alt="Teaser Image" title="teaser" />
 
 **Abstract**
 

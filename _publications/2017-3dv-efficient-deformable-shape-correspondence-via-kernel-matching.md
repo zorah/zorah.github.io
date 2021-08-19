@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2017-10-01
 venue: 'International Conference on 3D Vision (3DV)'
 paperurl: 'http://zorah.github.io/files/pdfs/vestner17kernel.pdf'
-authors: 'Matthias Vestner*, <b>Zorah Lähner</b>*, Amit Boyarski, Or Litany, Ron Slossberg, Tal Remez, Emanuele Rodolà, Alex M. Bronstein, Michael M. Bronsteins, Ron Kimmel, Daniel Cremers'
+authors: 'Matthias Vestner*, <b>Zorah Lähner</b>*, Amit Boyarski*, Or Litany, Ron Slossberg, Tal Remez, Emanuele Rodolà, Alex M. Bronstein, Michael M. Bronsteins, Ron Kimmel, Daniel Cremers'
 teaser: /previews/vestner2017kernel.png
 arxiv: 'https://arxiv.org/abs/1707.08991'
 code: https://github.com/zorah/KernelMatching

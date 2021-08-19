@@ -15,7 +15,7 @@ bibtex: true
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="{{ site.url }}/previews/laehner2016elastic2D3D.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/laehner2016elastic2D3D.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 

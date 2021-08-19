@@ -15,11 +15,15 @@ bibtex: true
 
 {{ page.authors }}
 
-<img class="pub_teaser" src="{{ site.url }}/previews/vestner2017kernel.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="../images/previews/vestner2017kernel.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 
 > We present a method to match three dimensional shapes under non-isometric deformations, topology changes and partiality. We formulate the problem as matching between a set of pair-wise and point-wise descriptors, imposing a continuity prior on the mapping, and propose a projected descent optimization procedure inspired by difference of convex functions (DC) programming.
+
+## Resources
+
+{% if page.paperurl %}<a href=" {{ page.paperurl }} ">[pdf]</a>{% endif %} {% if page.arxiv %}<a href=" {{ page.arxiv }} ">[arxiv]</a>{% endif %} {% if page.code %}<a href=" {{ page.code }} ">[github]</a>{% endif %} {% if page.video %}<a href=" {{ page.video }} ">[video]</a>{% endif %} {% if poster %}<a href=" {{ page.poster }} ">[video]</a>{% endif %}
 
 ## Bibtex
 

@@ -20,6 +20,10 @@ bibtex: true
 
 > In this work, we propose an unsupervised method for learning dense correspondences between shapes using a recent deep functional map framework. Instead of depending on ground-truth correspondences or the computationally expensive geodesic distances, we use heat kernels. These can be computed quickly during training as the supervisor signal. Moreover, we propose a curriculum learning strategy using different heat diffusion times which provide different levels of difficulty during optimization without any sampling mechanism or hard example mining. We present the results of our method on different benchmarks which have various challenges like partiality, topological noise and different connectivity.
 
+## Resources
+
+{% if page.paperurl %}<a href=" {{ page.paperurl }} ">[pdf]</a>{% endif %} {% if page.arxiv %}<a href=" {{ page.arxiv }} ">[arxiv]</a>{% endif %} {% if page.code %}<a href=" {{ page.code }} ">[github]</a>{% endif %} {% if page.video %}<a href=" {{ page.video }} ">[video]</a>{% endif %} {% if poster %}<a href=" {{ page.poster }} ">[video]</a>{% endif %}
+
 
 ## Bibtex
 

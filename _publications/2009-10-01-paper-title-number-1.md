@@ -15,7 +15,7 @@ bibtex: true
 
 {{ page.authors }}
 
-<img class="col two teaser" src="{{ url }}{{ page.teaser }}" alt="Teaser Image" title="teaser" />
+<img class="col two teaser" src="{{ base_path }}{{ page.teaser }}" alt="Teaser Image" title="teaser" />
 
 ##Abstract
 

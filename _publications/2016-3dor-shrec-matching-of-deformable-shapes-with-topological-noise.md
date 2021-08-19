@@ -10,8 +10,13 @@ authors: '<b>Zorah Lähner</b>, Emanuele Rodolà, Michael M. Bronstein, Daniel C
 teaser: /previews/laehner2016shrec.png
 bibtex: true
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+## Bibtex
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+    @InProceedings{laehner2016shrec,
+        title 		= "SHREC’16: Matching of Deformable Shapes with Topological Noise",
+        author 		= "Z. L\"ahner and E. Rodola and M. M. Bronstein and D. Cremers and O. Burghard and L. Cosmo and A. Dieckmann and R. Klein and Y. Sahillioglu",
+        booktitle 	= "Proc. of Eurographics Workshop on 3D Object Retrieval (3DOR)",
+        year 		= "2016",
+        month 		= "May",
+    }

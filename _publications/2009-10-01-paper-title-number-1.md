@@ -11,7 +11,7 @@ teaser: /previews/laehner2016elastic2D3D.png
 arxiv: 'https://arxiv.org/abs/1601.06070'
 code: https://github.com/zorah/Elastic2D3D
 ---
-<img class="col two teaser" src="{{ site.baseurl }}{{ teaser }}" alt="Teaser Image" title="teaser" />
+<img class="col two teaser" src="{{ site.url }}{{ page.teaser }}" alt="Teaser Image" title="teaser" />
 
 **Abstract**
 
@@ -19,8 +19,8 @@ code: https://github.com/zorah/Elastic2D3D
 
 **Resources**
 
-{% if paperurl %}
-    <a href=" {{ paperurl }} ">[pdf]</a>
+{% if page.paperurl %}
+    <a href=" {{ page.paperurl }} ">[pdf]</a>
 {% endif %}
 {% if arxiv %}
     <a href=" {{ arxiv }} ">[arxiv]</a>

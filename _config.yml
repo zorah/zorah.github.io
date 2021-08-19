@@ -83,8 +83,8 @@ author:
   name             : "Zorah Lähner"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Siegen, Germany"
-  employer         : University of Siegen
+  location         : 
+  employer         : "University of Siegen, Germany"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fMc479MAAAAJ&hl=en&oi=ao"
   email            :

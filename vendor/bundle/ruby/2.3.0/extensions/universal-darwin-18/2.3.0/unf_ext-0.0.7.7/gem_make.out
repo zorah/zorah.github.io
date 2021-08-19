@@ -1,0 +1,21 @@
+current directory: /Users/zorah/Dropbox/University/zorah.github.io/vendor/bundle/ruby/2.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20210819-34336-nt5fmm.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/2.3.0/universal-darwin18/rbconfig.rb:215: warning: Insecure world writable dir /Users/zorah/Coding in PATH, mode 040777
+checking for main() in -lstdc++... yes
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/zorah/Dropbox/University/zorah.github.io/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/unf_ext-0.0.7.7/mkmf.log
+
+current directory: /Users/zorah/Dropbox/University/zorah.github.io/vendor/bundle/ruby/2.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /Users/zorah/Dropbox/University/zorah.github.io/vendor/bundle/ruby/2.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/zorah/Dropbox/University/zorah.github.io/vendor/bundle/ruby/2.3.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210819-34336-npjbw1

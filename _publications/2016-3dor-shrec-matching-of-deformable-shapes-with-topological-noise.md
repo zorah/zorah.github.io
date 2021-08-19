@@ -11,9 +11,9 @@ teaser: /previews/laehner2016shrec.png
 bibtex: true
 ---
 
-<b>Zorah Lähner</b>, Emanuele Rodolà, Michael M. Bronstein, Daniel Cremers, Oliver Burghard, Luca Cosmo, Alexander Dieckmann, Reinhard Klein, Yusuf Sahillioğlu 
+<b>Zorah Lähner</b>, Emanuele Rodolà, Michael M. Bronstein, Daniel Cremers, Oliver Burghard, Luca Cosmo, Alexander Dieckmann, Reinhard Klein, Yusuf Sahillioğlu
 
-<img class="pub_teaser" src="{{ base_path }}/previews/laehner2016shrec.png" alt="Teaser Image" title="teaser" />
+<img class="pub_teaser" src="{{ site.url }}/previews/laehner2016shrec.png" alt="Teaser Image" title="teaser" />
 
 ## Abstract
 
@@ -23,7 +23,7 @@ bibtex: true
 
     @InProceedings{laehner2016shrec,
         title 		= "SHREC’16: Matching of Deformable Shapes with Topological Noise",
-        author 		= "Z. L\"ahner and E. Rodola and M. M. Bronstein and D. Cremers and O. Burghard and L. Cosmo and A. Dieckmann and R. Klein and Y. Sahillioglu",
+        author 		= "Zorah L\"ahner and Emanuele Rodol\'a and Michael M. Bronstein and Daniel Cremers and Oliver Burghard and Luca Cosmo and Alexander Dieckmann and Reinhard Klein and Yusuf Sahillioglu",
         booktitle 	= "Proc. of Eurographics Workshop on 3D Object Retrieval (3DOR)",
         year 		= "2016",
         month 		= "May",

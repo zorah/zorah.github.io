@@ -10,6 +10,7 @@ authors: 'Zorah Lähner, Emanuele Rodolà, Frank R. Schmidt, Michael M. Bronstei
 teaser: /previews/laehner2016elastic2D3D.png
 arxiv: 'https://arxiv.org/abs/1601.06070'
 code: https://github.com/zorah/Elastic2D3D
+bibtex: true
 ---
 <img class="col two teaser" src="{{ site.url }}{{ page.teaser }}" alt="Teaser Image" title="teaser" />
 

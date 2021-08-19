@@ -37,12 +37,12 @@
       {% endif %}
     </h3>
 
-    <p style="size: 12pt;">
+    <p style="size: 11pt;">
         {{ post.authors }} <br/>
         Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
     </p>
 
-        <p>
+        <p style="size: 11pt;">
             {% if post.paperurl %}
               <a href=" {{ post.paperurl }} ">[pdf]</a>
             {% endif %}

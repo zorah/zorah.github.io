@@ -11,9 +11,11 @@ author_profile: true
 
 under construction
 
-<h2>Finished Student These</h2>
+<h2>Finished Student Projects</h2>
 
-under construction
+{% for post in site.studentprojects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h2>University Courses</h2>
 

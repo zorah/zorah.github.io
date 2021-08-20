@@ -41,7 +41,7 @@
     {% endif %}
 
     {% if post.excerpt %}
-    {{ post.excerpt | markdownify }}</p>
+    {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     {% endif %}
 
   </article>

@@ -9,24 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a 4-page pdf version of my CV *not* here yet.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D (Dr. rer. nat.)** (summa cum laude) in Computer Science, Technical University of Munich, 2021 (defense passed, rest still in progress)
+* **M.Sc.** (with distinction) in Computer Science, Technical University of Munich, 2015
+* **B.Sc.** in Computer Science, University of Bonn, 2013
 
-Work experience
+Academic Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2021: Postdoctoral Researcher
+  * Computer Vision Group, University of Siegen
+  * Supervisor: Prof. Dr. Michael Moeller
+* 2015-2021: Researcher/PhD Candidate
+  * Computer Vision and Artificial Intelligence Group, Technical University of Munich
+  * Supervisor: Prof. Dr. Daniel Cremers
+* 2019: Research Intern
+  * Toshiba Research Europe, Cambridge
+  * Supervisor: Dr. Roberto Mecca
+* 2019: Visiting Researcher with DAAD Short-Term Scholarship for PhD students
+  * Geometry, Learning and Applied AI Group, Sapienza Università di Roma
+  * Supervisor: Prof. Dr. Emanuele Rodolà
+* 2017-2018: Research Intern
+  * Facebook Reality Labs, Sausalito
+  * Supervisor: Dr. Tony Tung
+* 2017: Visiting Researcher
+  * VISTA Lab, Technion - Israel Institute of Technology
+  * Supervisor: Prof. Dr. Alex Bronstein
+* 2015: Student Researcher
+  * Computer Vision Group, Technical University of Munich
+  * Supervisor: Prof. Dr. Emanuele Rodolà
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -41,19 +55,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

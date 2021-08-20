@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a densified 4-page pdf version of my CV *not* here yet.
+You can download a densified pdf version of my CV *not* here yet.
 
 Education
 ======

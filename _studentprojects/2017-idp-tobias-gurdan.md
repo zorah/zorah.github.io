@@ -4,7 +4,7 @@ collection: studentprojects
 type: "Interdisciplinary Project Mathematics"
 permalink: /studentprojects/2017-idp-tobias-gurdan
 venue: "Technical University of Munich"
-date: 2021-10-01
+date: 2017-12-01
 location: "Garching, Germany"
 ---
 

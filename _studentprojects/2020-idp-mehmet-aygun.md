@@ -8,4 +8,4 @@ date: 2020-07-30
 location: "Garching, Germany"
 ---
 
-Student: Mehmet Aygün. Resulted in a [https://zorah.github.io/publication/2020-3dv-unsupervised-dense-shape-correspondence-using-heat-kernels](publication at 3DV 2020).
+Student: Mehmet Aygün, now a PhD student at the University of Edinburgh. Resulted in a [publication at 3DV 2020](https://zorah.github.io/publication/2020-3dv-unsupervised-dense-shape-correspondence-using-heat-kernels).

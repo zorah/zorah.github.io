@@ -8,4 +8,4 @@ date: 2020-03-01
 location: "Garching, Germany"
 ---
 
-Student: Benjamin Holzschuh. Resulted in a [https://zorah.github.io/publication/2020-3dv-simulated-annealing-for-3d-shape-correspondence](publication at 3DV 2020).
+Student: Benjamin Holzschuh, now a PhD student at TUM/MPA. Resulted in a [publication at 3DV 2020](https://zorah.github.io/publication/2020-3dv-simulated-annealing-for-3d-shape-correspondence).

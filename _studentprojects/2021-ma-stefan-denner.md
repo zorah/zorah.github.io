@@ -7,5 +7,4 @@ venue: "Technical University of Munich"
 date: 2021-07-30
 location: "Garching, Germany"
 ---
-
 by Stefan Denner. In cooperation with [https://ablacon.com](Ablacon).

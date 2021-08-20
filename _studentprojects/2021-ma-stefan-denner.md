@@ -8,4 +8,4 @@ date: 2021-07-30
 location: "Garching, Germany"
 ---
 
-In cooperation with [https://ablacon.com](Ablacon).
+by Stefan Denner. In cooperation with [https://ablacon.com](Ablacon).

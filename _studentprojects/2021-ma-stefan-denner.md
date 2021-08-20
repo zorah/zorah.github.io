@@ -1,6 +1,6 @@
 ---
 title: "GPS in the Heart - Towards a Purely Biosignal Based Intracardiac Navigation System"
-collection: teaching
+collection: studentprojects
 type: "Master's Thesis Computer Science"
 permalink: /studentprojects/2021-ma-stefan-denner
 venue: "Technical University of Munich"

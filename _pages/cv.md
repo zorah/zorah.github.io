@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,35 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a 4-page pdf version of my CV *not* here yet.
+You can download a densified 4-page pdf version of my CV *not* here yet.
 
 Education
 ======
-* **Ph.D (Dr. rer. nat.)** (summa cum laude) in Computer Science, Technical University of Munich, 2021 (defense passed, rest still in progress)
-* **M.Sc.** (with distinction) in Computer Science, Technical University of Munich, 2015
-* **B.Sc.** in Computer Science, University of Bonn, 2013
+* **Ph.D (Dr. rer. nat.)** (summa cum laude) in Computer Science
+  * Technical University of Munich, 2021
+  * (defense passed, rest still in progress)
+* **M.Sc.** (with distinction) in Computer Science
+  * Technical University of Munich, 2015
+* **B.Sc.** in Computer Science
+  * University of Bonn, 2013
 
 Academic Experience
 ======
-* Since 2021: Postdoctoral Researcher
+* Since 2021: **Postdoctoral Researcher**
   * Computer Vision Group, University of Siegen
   * Supervisor: Prof. Dr. Michael Moeller
-* 2015-2021: Researcher/PhD Candidate
+* 2015-2021: **Researcher/PhD Candidate**
   * Computer Vision and Artificial Intelligence Group, Technical University of Munich
   * Supervisor: Prof. Dr. Daniel Cremers
-* 2019: Research Intern
+* 2019: **Research Intern**
   * Toshiba Research Europe, Cambridge
   * Supervisor: Dr. Roberto Mecca
-* 2019: Visiting Researcher with DAAD Short-Term Scholarship for PhD students
+* 2019: **Visiting Researcher** with a DAAD Short-Term Scholarship for PhD students
   * Geometry, Learning and Applied AI Group, Sapienza Università di Roma
   * Supervisor: Prof. Dr. Emanuele Rodolà
-* 2017-2018: Research Intern
+* 2017-2018: **Research Intern**
   * Facebook Reality Labs, Sausalito
   * Supervisor: Dr. Tony Tung
-* 2017: Visiting Researcher
+* 2017: **Visiting Researcher**
   * VISTA Lab, Technion - Israel Institute of Technology
   * Supervisor: Prof. Dr. Alex Bronstein
-* 2015: Student Researcher
+* 2015: **Student Researcher**
   * Computer Vision Group, Technical University of Munich
   * Supervisor: Prof. Dr. Emanuele Rodolà
 

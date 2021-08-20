@@ -1,5 +1,5 @@
 ---
-title: "Recent Advances in Machine Learning"
+title: "Visual Computing"
 collection: teaching
 type: "Seminar for Computer Science Bachelor and Master students"
 permalink: /teaching/2021-ss-practical-recent-advances-in-machine-learning

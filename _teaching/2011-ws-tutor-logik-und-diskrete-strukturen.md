@@ -8,4 +8,4 @@ date: 2011-10-01
 location: "Bonn, Germany"
 ---
 
-Teaching assistant with two weekly tutorials, supervised ~60 students.
+Teaching assistant with two weekly tutorials, supervised ~40 students.

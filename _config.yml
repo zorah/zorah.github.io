@@ -252,9 +252,10 @@ defaults:
       path: ""
       type: studentprojects
     values:
-      layout: studentsprojects
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:

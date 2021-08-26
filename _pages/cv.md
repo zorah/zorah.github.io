@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a densified pdf version of my CV *not* here yet.
+You can download a densified pdf version of my CV [here (updated Aug 21)](https://zorah.github.io/files/ZorahLaehner_CV_website_0821.pdf).
 
 Education
 ======
@@ -45,20 +45,44 @@ Academic Experience
   * Computer Vision Group, Technical University of Munich
   * Supervisor: Prof. Dr. Emanuele Rodolà
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publication-cv.html %}
   {% endfor %}</ul>
+
+
+Chairing
+======
+
+* [French German Machine Learning Symposium 2021](https://fgml2021.in.tum.de/) (Program & Website Chair)
+
+Reviewing
+======
+
+**Conferences**
+
+* CVPR 2016-2020
+* 3DV 2016-2021
+* BMVC 2016-2018
+* NeurIPS 2019-2020
+* ICCV 2019-2021
+* ECCV 2020
+* SIGGRAPH 2020-2021
+* WACV 2021
+
+**Workshops**
+
+* MVR3D 2017 (WS@ICCV)
+* GMDL 2017-2018 (WS@ICCV/ECCV)
+* 3DRWi 2018 (WS@ECCV)
+
+**Journals**
+
+* IJCV (International Journal of Computer Vision)
+* JVCI (Journal of Visual Communication and Image Representation)
+* JMIV (Journal of Mathematical Imaging and Vision)
 
 Talks
 ======
@@ -71,7 +95,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

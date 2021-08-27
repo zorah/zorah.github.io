@@ -9,6 +9,7 @@ paperurl: 'http://zorah.github.io/files/pdfs/gao2021multi.pdf'
 authors: 'Maolin Gao, <b>Zorah Lähner</b>, Johan Thunberg, Daniel Cremers, Florian Bernard'
 teaser: /previews/gao2021multi.png
 arxiv: 'https://arxiv.org/abs/2012.02689'
+video: https://www.youtube.com/watch?v=bDy0wHeBeYU
 bibtex: true
 ---
 

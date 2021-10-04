@@ -8,6 +8,7 @@ venue: 'Conference on 3D Vision (3DV)'
 paperurl: 'http://zorah.github.io/files/pdfs/holzschuh2020simanneal.pdf'
 authors: 'Benjamin Holzschuh, <b>Zorah Lähner</b>, Daniel Cremers'
 teaser: /previews/holzschuh2020simanneal.png
+video: /files/videos/holzschuh2020simanneal.mp4
 bibtex: true
 ---
 

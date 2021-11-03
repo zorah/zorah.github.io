@@ -55,7 +55,7 @@ Publications
 Committees
 ======
 
-* [Matteo Dellepiane Award 2021](https://fgml2021.in.tum.de/) (Best Thesis Award Comittee)
+* [Matteo Dellepiane Award 2021](https://conference.stag2021.it/awards/) (Best Thesis Award Comittee)
 * [French German Machine Learning Symposium 2021](https://fgml2021.in.tum.de/) (Program & Website Chair)
 
 Reviewing

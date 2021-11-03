@@ -15,7 +15,6 @@ Education
 ======
 * **Ph.D (Dr. rer. nat.)** (summa cum laude) in Computer Science
   * Technical University of Munich, 2021
-  * (defense passed, rest still in progress)
 * **M.Sc.** (with distinction) in Computer Science
   * Technical University of Munich, 2015
 * **B.Sc.** in Computer Science
@@ -53,9 +52,10 @@ Publications
   {% endfor %}</ul>
 
 
-Chairing
+Committees
 ======
 
+* [Matteo Dellepiane Award 2021](https://fgml2021.in.tum.de/) (Best Thesis Award Comittee)
 * [French German Machine Learning Symposium 2021](https://fgml2021.in.tum.de/) (Program & Website Chair)
 
 Reviewing
@@ -71,6 +71,8 @@ Reviewing
 * ECCV 2020
 * SIGGRAPH 2020-2021
 * WACV 2021
+* ICLR 2022
+* STAG 2021
 
 **Workshops**
 

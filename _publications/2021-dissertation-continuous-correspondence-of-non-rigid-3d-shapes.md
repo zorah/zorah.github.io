@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-dissertation-continuous-correspondence-of-non-rigid-3d-shapes
 excerpt: 'My PhD thesis.'
 date: 2021-11-02
-venue: 'TUM University Press'
+venue: 'PhD Thesis, TUM University Press'
 paperurl: 'https://mediatum.ub.tum.de/?id=1555054'
 authors: '<b>Zorah Lähner</b>'
 teaser: /previews/laehner2021diss.png

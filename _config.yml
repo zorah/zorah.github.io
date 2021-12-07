@@ -190,6 +190,9 @@ collections:
   studentprojects:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: studentprojects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _news
+  - scope:
+      path: ""
+      type: news
     values:
       layout: single
       author_profile: true

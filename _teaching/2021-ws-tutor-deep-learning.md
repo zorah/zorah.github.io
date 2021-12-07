@@ -8,4 +8,4 @@ date: 2021-10-01
 location: "Siegen, Germany"
 ---
 
-Organization and giving of exercises, around 100 students.
+Organization and execution of exercises, around 100 students.

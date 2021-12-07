@@ -61,6 +61,8 @@ Committees
 Reviewing
 ======
 
+Outstanding Reviewer Award 3DV 2021
+
 **Conferences**
 
 * CVPR 2016-2020

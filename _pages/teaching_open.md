@@ -32,44 +32,44 @@ All projects related to deep learning need to be implemented in PyTorch (not ano
 
 ### Fast Marching on a 3D Product Manifold
 
-**Summary** Replace the Dijkstra shortest path implementation in the paper below with fast marching.
+*Summary:* Replace the Dijkstra shortest path implementation in the paper below with fast marching.
 
-**Suitable for** Bachelor Thesis, Studienarbeit
+*Suitable for:* Bachelor Thesis, Studienarbeit
 
-**Most related paper** [Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, Lähner et al, 2016](https://zorah.github.io/publication/2016-cvpr-efficient-globally-optimal-2d-to-3d-deformable-shape-matching)
+*Most related paper:* [Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, Lähner et al, 2016](https://zorah.github.io/publication/2016-cvpr-efficient-globally-optimal-2d-to-3d-deformable-shape-matching)
 
-**Requirements** C++, Matlab (brief is fine, the Matlab part does not need to be changed)
+*Requirements:* C++, Matlab (brief is fine, the Matlab part does not need to be changed)
 
 
 
 ### Analysis of PointNet Architecture
 
-**Summary** Analysis of training strategies and extension of the PointNet architecture.
+*Summary:* Analysis of training strategies and extension of the PointNet architecture.
 
-**Suitable for** Bachelor Thesis, Studienarbeit
+*Suitable for:* Bachelor Thesis, Studienarbeit
 
-**Most related paper** [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation, Qi et al, 2017](https://arxiv.org/abs/1612.00593)
+*Most related paper:* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation, Qi et al, 2017](https://arxiv.org/abs/1612.00593)
 
-**Requirements** Python, preferably experience with either PyTorch or 3D geometry processing, for Studienarbeit: passed Deep Learning lecture offered in Siegen
+*Requirements:* Python, preferably experience with either PyTorch or 3D geometry processing, for Studienarbeit: passed Deep Learning lecture offered in Siegen
 
 
 ### Generation of LEGO Models
 
-**Summary** Automatic generation of buildable LEGO models from a given 3D mesh. This can be both learning based or procedural based on your preferences.
+*Summary:* Automatic generation of buildable LEGO models from a given 3D mesh. This can be both learning based or procedural based on your preferences.
 
-**Suitable for** Master Thesis
+*Suitable for:* Master Thesis
 
-**Most related paper** [LEGO Builder: Automatic Generation of LEGO As-
+*Most related paper:* [LEGO Builder: Automatic Generation of LEGO As-
 sembly Manual from 3D Polygon Model, Ono et al, 2013](https://asset-pdf.scinapse.io/prod/1974096800/1974096800.pdf)
 
-**Requirements** Python, passed any lecture related to machine learning, computer vision, or computer graphics offered in Siegen
+*Requirements:* Python, passed any lecture related to machine learning, computer vision, or computer graphics offered in Siegen
 
 ### Non-Rigid Puzzles
 
-**Summary** Merging and correspondence calculation between multiple non-rigidly deformed shapes of the same object instance (e.g. humans in the same pose, see example paper).
+*Summary:* Merging and correspondence calculation between multiple non-rigidly deformed shapes of the same object instance (e.g. humans in the same pose, see example paper).
 
-**Suitable for** Master Thesis
+*Suitable for:* Master Thesis
 
-**Most related paper** [Spectral Unions of Partial Deformable 3D Shapes, Moschella et al, 2021](https://arxiv.org/abs/2104.00514)
+*Most related paper:* [Spectral Unions of Partial Deformable 3D Shapes, Moschella et al, 2021](https://arxiv.org/abs/2104.00514)
 
-**Requirements** Python, passed any lecture related to machine learning offered in Siegen
+*Requirements:* Python, passed any lecture related to machine learning offered in Siegen

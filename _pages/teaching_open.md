@@ -21,6 +21,9 @@ Optional but appreciated:
 - your CV
 - a description of experience you have with handling 3D data
 - names of people in the computer vision chair you have worked with before
+- any questions/constraints you have that you want to clear before doing the programming task
+
+I will then send you a small programming task related to 3D geometry processing (no prior knowledge required) which you have a week to solve. Afterwards we have a meeting where we will discuss your solution, I will ask some questions about Bachelor level math or data structure topics to make sure you have the needed background knowledge, and I give you a more detailed overview over the project(s).
 
 ## Available Projects
 
@@ -28,7 +31,7 @@ Currently available spots: 1 (earliest starting date mid March)
 
 (there are more topics here than available spots but I can only supervise a certain amount of students at the same time, please do not write emails if it says 0 spots available)
 
-All projects related to deep learning need to be implemented in PyTorch (not another framework).
+All projects related to deep learning need to be implemented in PyTorch.
 
 ### Fast Marching on a 3D Product Manifold
 

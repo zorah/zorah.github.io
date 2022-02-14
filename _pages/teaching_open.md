@@ -12,10 +12,10 @@ author_profile: true
 Please read this section carefully. I might not answer you if you do not follow the instructions and I am very busy at the moment (or just reply with a link here).
 
 In order to apply write an email to zorah.laehner@uni-siegen.de with at least the following information:
-- a **short** introduction of yourself including your study program and semester
-- some kind of acknowledgment that you are aware that I only give out projects related to 3D data and will not ask for a pure image based project (except it is in the list below)
+- a **short** introduction of yourself including your study program, semester and programming languages you have experience with
 - your transcript of records (this is the list of your courses and grades you can get from Unisono)
 - which project you are the most interested in (from the list below, or your own project but only 3D related topics)
+- some kind of acknowledgment that you are aware that I only give out projects related to 3D data and will not ask for a pure image based project (except it is in the list below)
 
 Optional but appreciated:
 - your CV

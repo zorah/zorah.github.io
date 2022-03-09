@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2021-09-01
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: 'http://zorah.github.io/files/pdfs/seelbach2021qmatch.pdf'
-authors: 'Marcel Seelbach Benker, <b>Zorah Lähner</b>, Vladislav Golyanik, Christof Wunderlich, Christian Theobalt, Michael Moeller'
+authors: 'Marcel Seelbach Benkner, <b>Zorah Lähner</b>, Vladislav Golyanik, Christof Wunderlich, Christian Theobalt, Michael Moeller'
 teaser: /previews/seelbach2021qmatch.png
 arxiv: 'https://arxiv.org/abs/2105.02878'
 code: https://github.com/MSeelbach/Q-Match
@@ -29,7 +29,7 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{seelbach2021qmatch,
-        author 	= "Marcel {Seelbach Benker} and Zorah L\"ahner and Vladislav Golyanik and Christof Wunderlich and Christian Theobalt and Michael Moeller",
+        author 	= "Marcel {Seelbach Benkner} and Zorah L\"ahner and Vladislav Golyanik and Christof Wunderlich and Christian Theobalt and Michael Moeller",
         title 	= "Q-Match: Iterative Shape Matching via Quantum Annealing",
         booktitle    	= "International Conference on Computer Vision (ICCV)",
         year 		= "2021",

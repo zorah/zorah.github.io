@@ -27,7 +27,7 @@ I will then send you a small programming task related to 3D geometry processing 
 
 ## Available Projects
 
-Currently available spots: 0
+Currently available spots: 1
 
 (there are more topics here than available spots but I can only supervise a certain amount of students at the same time, please do not write emails if it says 0 spots available)
 
@@ -45,27 +45,14 @@ All projects related to deep learning need to be implemented in PyTorch.
 
 
 
-### Analysis of PointNet Architecture
+### Survey of Autoencoder Architectures
 
-*Summary:* Analysis of training strategies and extension of the PointNet architecture.
+*Summary:* Survey, implement and compare existing autoencoder architectures for point clouds, voxel grids and triangle meshes.
 
-*Suitable for:* Bachelor Thesis, Studienarbeit
+*Suitable for:* Bachelor Thesis, Master Thesis, Studienarbeit
 
-*Most related paper:* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation, Qi et al, 2017](https://arxiv.org/abs/1612.00593)
+*Requirements:* Python, passed our Deep Learning lecture (exception for Bachelor students)
 
-*Requirements:* Python, preferably experience with either PyTorch or 3D geometry processing, for Studienarbeit: passed Deep Learning lecture offered in Siegen
-
-
-### Generation of LEGO Models
-
-*Summary:* Automatic generation of buildable LEGO models from a given 3D mesh. This can be both learning based or procedural based on your preferences.
-
-*Suitable for:* Master Thesis
-
-*Most related paper:* [LEGO Builder: Automatic Generation of LEGO As-
-sembly Manual from 3D Polygon Model, Ono et al, 2013](https://asset-pdf.scinapse.io/prod/1974096800/1974096800.pdf)
-
-*Requirements:* Python, passed any lecture related to machine learning, computer vision, or computer graphics offered in Siegen
 
 ### Non-Rigid Puzzles
 

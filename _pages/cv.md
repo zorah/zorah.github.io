@@ -43,7 +43,13 @@ Academic Experience
 * 2015: **Student Researcher**
   * Computer Vision Group, Technical University of Munich
   * Supervisor: Prof. Dr. Emanuele Rodolà
+  
+  
+Funding
+======
 
+* 2022-2024: **KI-Starter grant** from the ministry for culture and science in NRW for the two year project "Robust Geometric Deep Learning" (170k Euro)
+* 2019: **DAAD Short-Term Scholarship for PhD students** funding a two months research visit at Sapienza Università di Roma (3k Euro)
 
 Publications
 ======
@@ -65,12 +71,12 @@ Outstanding Reviewer Award 3DV 2021
 
 **Conferences**
 
-* CVPR 2016-2020
-* 3DV 2016-2021
+* CVPR 2016-2020, 2022
+* 3DV 2016-2022
 * BMVC 2016-2018
 * NeurIPS 2019-2020
 * ICCV 2019-2021
-* ECCV 2020
+* ECCV 2020-2022
 * SIGGRAPH 2020-2021
 * WACV 2021
 * ICLR 2022

@@ -4,7 +4,7 @@ collection: preprints
 permalink: /publication/2022-intrinsic-neural-fields
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-03-16
-venue: 'arXiv'
+venue: 'Accepted at European Conference on Computer Vision (ECCV)'
 authors: 'Lukas Koestler, Daniel Grittner, Michael Moeller, Daniel Cremers, <b>Zorah Lähner</b>'
 teaser: /previews/koestler2022intrinsic.png
 arxiv: 'https://arxiv.org/abs/2203.07967'
@@ -26,9 +26,9 @@ bibtex: true
 
 ## Bibtex
 
-    @article{gandikota2021invariance,
-        author 	= "{Kanchana Vaishnavi} Gandikota, Jonas Geiping, Zorah L\"ahner, Adam Czapli\'nski, Michael Moeller",
-        title 	= "Training or Architecture? How to Incorporate Invariance in Neural Networks",
-        booktitle   = "arXiv:2106.10044",
-        year 	= "2021",
+    @inproceedings{koestler2022intrinsic,
+        author 	= {Lukas Koestler and Daniel Grittner and Michael Moeller and Daniel Cremers and Zorah L\"ahner},
+        title 	= {Intrinsic Neural Fields: Learning Functions on Manifolds},
+        booktitle   = {European Conference on Computer Vision (ECCV)},
+        year 	= "2022",
     }

@@ -6,6 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-03-01
 venue: 'In submission.'
 authors: 'Zekarias Negese, Hartmut Bauermeister, Michael Moeller, Emanuele Rodolà, <b>Zorah Lähner</b>'
+teaser: /previews/negese2022lightweight.png
 ---
 
 {{ page.authors }}

@@ -8,6 +8,7 @@ venue: 'PhD Thesis, TUM University Press'
 paperurl: 'https://mediatum.ub.tum.de/?id=1555054'
 authors: '<b>Zorah Lähner</b>'
 teaser: /previews/laehner2021diss.png
+categories: [correspondence]
 bibtex: true
 ---
 
@@ -59,8 +60,8 @@ resolution with only linear overhead, and without discretization artifacts.
 ## Bibtex
 
     @phdthesis{laehner2021diss,
-        author 	= "Zorah L\"ahner",
-        title 	= "Continuous Correspondence of Non-Rigid 3D Shapes",
-        school  = "Technical University of Munich (TUM)",
-        year 		= "2021",
+        author 	= {Zorah L\"ahner},
+        title 	= {Continuous Correspondence of Non-Rigid 3D Shapes},
+        school  = {Technical University of Munich {(TUM)}},
+        year 		= {2021},
     }

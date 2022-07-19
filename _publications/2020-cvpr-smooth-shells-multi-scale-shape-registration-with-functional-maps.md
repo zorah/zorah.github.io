@@ -10,6 +10,7 @@ authors: 'Marvin Eisenberger, <b>Zorah Lähner</b>, Daniel Cremers'
 teaser: /previews/eisenberger2020smoothshells.png
 arxiv: 'https://arxiv.org/abs/1905.12512'
 code: https://github.com/marvin-eisenberger/smooth-shells
+categories: [correspondence]
 bibtex: true
 ---
 
@@ -28,9 +29,9 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{eisenberger2020smoothshells,
-        author 	= "Marvin Eisenberger and Zorah L\"ahner and Daniel Cremers",
-        title 	= "Smooth Shells: Multi-Scale Shape Registration with Functional Maps",
-        booktitle    	= "Conference on Computer Vision and Pattern Recognition (CVPR)",
-        year 		= "2020",
-        month 	= "June",
+        author 	= {Marvin Eisenberger and Zorah L\"ahner and Daniel Cremers},
+        title 	= {Smooth Shells: Multi-Scale Shape Registration with Functional Maps},
+        booktitle    	= {Conference on Computer Vision and Pattern Recognition (CVPR)},
+        year 		= {2020},
+        month 	= {June},
     }

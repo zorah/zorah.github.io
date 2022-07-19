@@ -44,9 +44,9 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{laehner2016elastic2D3D,
-      author       = "Zorah L\"ahner and Emanuele Rodol\`a and Frank R. Schmidt and Michael M. Bronstein and Daniel Cremers",
+      author       = {Zorah L\"ahner and Emanuele Rodol\`a and Frank R. Schmidt and Michael M. Bronstein and Daniel Cremers},
       title        = { Efficient Globally Optimal 2D-to-3D Deformable Shape Matching },
       booktitle    = { Proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR) },
-      month        = "June",
-      year         = "2016",
+      month        = { June },
+      year         = { 2016 },
     }

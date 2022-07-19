@@ -11,6 +11,7 @@ teaser: /previews/gao2021multi.png
 arxiv: 'https://arxiv.org/abs/2012.02689'
 video: https://www.youtube.com/watch?v=bDy0wHeBeYU
 code: https://github.com/maolingao/IsoMuSh
+categories: [correspondence]
 bibtex: true
 ---
 
@@ -30,9 +31,9 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{laehner2018gao2021multi,
-        author 	= "Maolin Gao and Zorah L\"ahner and Johan Thunberg and Daniel Cremers and Florian Bernard",
-        title 	= "Isometric Multi-Shape Matching",
-        booktitle    = "Conference on Computer Vision and Pattern Recognition (CVPR)",
-        year 	= "2021",
-        month 	= "June",
+        author 	= {Maolin Gao and Zorah L\"ahner and Johan Thunberg and Daniel Cremers and Florian Bernard},
+        title 	= {Isometric Multi-Shape Matching},
+        booktitle    = {Conference on Computer Vision and Pattern Recognition {(CVPR)}},
+        year 	= {2021},
+        month 	= {June},
     }

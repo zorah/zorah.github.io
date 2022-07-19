@@ -9,6 +9,7 @@ paperurl: 'http://zorah.github.io/files/pdfs/aygun2020heatkernel.pdf'
 authors: 'Mehmet Aygün, <b>Zorah Lähner</b>, Daniel Cremers'
 teaser: /previews/aygun2020heatkernel.png
 arxiv: 'https://arxiv.org/abs/2010.12682'
+categories: [correspondence]
 bibtex: true
 ---
 
@@ -28,8 +29,8 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{aygun2020heatkernel,
-        author 	= "Mehmet Ayg\"un and Zorah L\"ahner and Daniel Cremers",
-        title 	= "Unsupervised Dense Shape Correspondence using Heat Kernels",
-        booktitle    	= "Conference on 3D Vision (3DV)",
-        year 		= "2020",
+        author 	= {Mehmet Ayg\"un and Zorah L\"ahner and Daniel Cremers},
+        title 	= {Unsupervised Dense Shape Correspondence using Heat Kernels},
+        booktitle    	= {Conference on 3D Vision {(3DV)}},
+        year 		= {2020},
     }

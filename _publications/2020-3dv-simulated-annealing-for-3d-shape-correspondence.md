@@ -9,6 +9,7 @@ paperurl: 'http://zorah.github.io/files/pdfs/holzschuh2020simanneal.pdf'
 authors: 'Benjamin Holzschuh, <b>Zorah Lähner</b>, Daniel Cremers'
 teaser: /previews/holzschuh2020simanneal.png
 video: /files/videos/holzschuh2020simanneal.mp4
+categories: [correspondence]
 bibtex: true
 ---
 
@@ -28,8 +29,8 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{holzschuh2020simanneal,
-        author 	= "Benjamin Holzschuh and Zorah L\"ahner and Daniel Cremers",
-        title 	= "Simulated Annealing for 3D Shape Correspondence",
-        booktitle = "Conference on 3D Vision (3DV)",
-        year 		= "2020",
+        author 	= {Benjamin Holzschuh and Zorah L\"ahner and Daniel Cremers},
+        title 	= {Simulated Annealing for 3D Shape Correspondence},
+        booktitle = {Conference on 3D Vision (3DV)},
+        year 		= {2020},
     }

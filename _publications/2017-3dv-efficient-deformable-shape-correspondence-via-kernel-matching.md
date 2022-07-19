@@ -10,6 +10,7 @@ authors: 'Matthias Vestner*, <b>Zorah Lähner</b>*, Amit Boyarski*, Or Litany, R
 teaser: /previews/vestner2017kernel.png
 arxiv: 'https://arxiv.org/abs/1707.08991'
 code: https://github.com/zorah/KernelMatching
+categories: [correspondence]
 bibtex: true
 ---
 

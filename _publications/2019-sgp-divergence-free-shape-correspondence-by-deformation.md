@@ -9,6 +9,7 @@ paperurl: 'http://zorah.github.io/files/pdfs/eisenberger2019divfree.pdf'
 authors: 'Marvin Eisenberger, <b>Zorah Lähner</b>, Daniel Cremers'
 teaser: /previews/eisenberger2019divfree.png
 arxiv: 'https://arxiv.org/abs/1806.10417'
+categories: [correspondence]
 bibtex: true
 ---
 
@@ -27,8 +28,8 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{eisenberger2019divfree,
-        author       = "Marvin Eisenberger and Zorah L\"ahner and Daniel Cremers",
-        title        = "Divergence-Free Shape Correspondence by Deformation",
-        booktitle    = "Symposium on Geometry Processing (SGP)",
-        year         = "2019",
+        author       = {Marvin Eisenberger and Zorah L\"ahner and Daniel Cremers},
+        title        = {Divergence-Free Shape Correspondence by Deformation},
+        booktitle    = {Symposium on Geometry Processing {(SGP)}},
+        year         = {2019},
     }

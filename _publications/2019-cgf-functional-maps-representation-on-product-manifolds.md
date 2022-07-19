@@ -9,6 +9,7 @@ paperurl: 'http://zorah.github.io/files/pdfs/rodola2019funmaprep.pdf'
 authors: 'Emanuele Rodolà, <b>Zorah Lähner</b>, Alex M. Bronstein, Michael M. Bronstein, Justin Solomon'
 teaser: /previews/rodola2019funmaprep.png
 arxiv: 'https://arxiv.org/abs/1809.10940'
+categories: [correspondence]
 bibtex: true
 ---
 

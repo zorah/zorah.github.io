@@ -7,7 +7,7 @@ collection: portfolio
 ## Publications
 
 {% for post in site.publications reversed %}
-  {% if page.category contains 'correspondence' %}
+  {% if page.categories contains 'correspondence' %}
     {% include archive-single-publication.html %}
   {% endif %}
 {% endfor %}

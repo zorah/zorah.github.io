@@ -10,7 +10,7 @@ authors: '<b>Zorah Lähner</b>, Emanuele Rodolà, Frank R. Schmidt, Michael M. B
 teaser: /previews/laehner2016elastic2D3D.png
 arxiv: 'https://arxiv.org/abs/1601.06070'
 code: https://github.com/zorah/Elastic2D3D
-category: correspondence
+category: 'correspondence'
 bibtex: true
 ---
 

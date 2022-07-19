@@ -8,7 +8,7 @@ venue: 'European Conference on Computer Vision (ECCV) (Accepted)'
 authors: 'Lukas Koestler, Daniel Grittner, Michael Moeller, Daniel Cremers, <b>Zorah Lähner</b>'
 teaser: /previews/koestler2022intrinsic.png
 arxiv: 'https://arxiv.org/abs/2203.07967'
-code: 'https://github.com/tum-vision/intrinsic-neural-fields'
+code: https://github.com/tum-vision/intrinsic-neural-fields
 bibtex: true
 ---
 

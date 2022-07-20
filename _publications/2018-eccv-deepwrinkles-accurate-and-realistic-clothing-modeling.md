@@ -10,6 +10,7 @@ authors: '<b>Zorah Lähner</b>, Daniel Cremers, Tony Tung'
 teaser: /previews/laehner2018deepwrinkles.png
 arxiv: 'https://arxiv.org/abs/1808.03417'
 video: https://www.youtube.com/watch?v=g2hmNE1AxjQ
+categories: [geometricDL]
 bibtex: true
 ---
 

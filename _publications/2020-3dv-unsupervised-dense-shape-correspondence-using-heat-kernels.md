@@ -9,7 +9,7 @@ paperurl: 'http://zorah.github.io/files/pdfs/aygun2020heatkernel.pdf'
 authors: 'Mehmet Aygün, <b>Zorah Lähner</b>, Daniel Cremers'
 teaser: /previews/aygun2020heatkernel.png
 arxiv: 'https://arxiv.org/abs/2010.12682'
-categories: [correspondence]
+categories: [correspondence, geometricDL]
 bibtex: true
 ---
 

@@ -8,6 +8,7 @@ venue: 'arXiv'
 authors: 'Kanchana Vaishnavi Gandikota, Jonas Geiping, <b>Zorah Lähner</b>, Adam Czapliński, Michael Moeller'
 teaser: /previews/gandikota2021trainingorarchitecture.png
 arxiv: 'https://arxiv.org/abs/2106.10044'
+categories: [geometricDL]
 bibtex: true
 ---
 

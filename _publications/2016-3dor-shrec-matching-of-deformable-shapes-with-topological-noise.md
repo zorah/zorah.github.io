@@ -27,7 +27,7 @@ bibtex: true
 ## Bibtex
 
     @InProceedings{laehner2016shrec,
-        title 		= {{SHREC’16}: Matching of Deformable Shapes with Topological Noise},
+        title 		= {{SHREC16}: Matching of Deformable Shapes with Topological Noise},
         author 		= {Zorah L\"ahner and Emanuele Rodol\'a and Michael M. Bronstein and Daniel Cremers and Oliver Burghard and Luca Cosmo and Alexander Dieckmann and Reinhard Klein and Yusuf Sahillioglu},
         booktitle 	= {Proc. of Eurographics Workshop on 3D Object Retrieval {(3DOR)}},
         year 		= {2016},

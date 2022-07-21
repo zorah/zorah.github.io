@@ -63,3 +63,14 @@ All projects related to deep learning need to be implemented in PyTorch.
 *Most related paper:* [Spectral Unions of Partial Deformable 3D Shapes, Moschella et al, 2021](https://arxiv.org/abs/2104.00514)
 
 *Requirements:* Python, passed any lecture related to machine learning offered in Siegen
+
+
+### Reconstruction from Depth Stream
+
+*Summary:* Survey state-of-the-art RGBD reconstruction methods and implement a robust and accurate version using a Azure Kinect video.
+
+*Suitable for:* Bachelor Thesis, Studienarbeit
+
+*Most related paper:* [KinectFusion: Real-Time Dense Surface Mapping and Tracking, Newcombe et al, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf) (more recent papers should be surveyed)
+
+*Requirements:* Python or C++

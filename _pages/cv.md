@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a densified pdf version of my CV [here (updated Aug 21)](https://zorah.github.io/files/ZorahLaehner_CV_website_0821.pdf).
+You can download a densified pdf version of my CV [here (updated Aug 22)](https://zorah.github.io/files/ZorahLaehner_CV_website_0822.pdf).
 
 Education
 ======
@@ -43,8 +43,8 @@ Academic Experience
 * 2015: **Student Researcher**
   * Computer Vision Group, Technical University of Munich
   * Supervisor: Prof. Dr. Emanuele Rodolà
-  
-  
+
+
 Funding
 ======
 

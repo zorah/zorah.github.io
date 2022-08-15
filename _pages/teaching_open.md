@@ -27,7 +27,7 @@ I will then send you a small programming task related to 3D geometry processing 
 
 ## Available Projects
 
-Currently available spots: 1
+Currently available spots: 0
 
 (there are more topics here than available spots but I can only supervise a certain amount of students at the same time, please do not write emails if it says 0 spots available)
 

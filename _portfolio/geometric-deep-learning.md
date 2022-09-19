@@ -4,7 +4,9 @@ excerpt: "<img width='50%' src='/images/previews/koestler2022intrinsic.png'>"
 collection: portfolio
 ---
 
-This is a test.
+## Research Grants
+
+KI-Starter from the Ministry for Culture and Science NRW 'Robust Geometric Deep Learning' (2022-2024) 
 
 ## Publications
 

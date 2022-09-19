@@ -10,7 +10,7 @@ authors: 'Marcel Seelbach Benkner, <b>Zorah Lähner</b>, Vladislav Golyanik, Chr
 teaser: /previews/seelbach2021qmatch.png
 arxiv: 'https://arxiv.org/abs/2105.02878'
 code: https://github.com/MSeelbach/Q-Match
-categories: [correspondence]
+categories: [correspondence, quantum]
 bibtex: true
 ---
 

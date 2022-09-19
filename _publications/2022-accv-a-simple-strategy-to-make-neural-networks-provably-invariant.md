@@ -1,10 +1,10 @@
 ---
-title: "Training or Architecture? How to Incorporate Invariance in Neural Networks"
+title: "A Simple Strategy to Make Neural Networks Provably Invariant"
 collection: preprints
-permalink: /publication/2021-arxiv-training-or-architecture
+permalink: /publication/2022-accv-a-simple-strategy
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-06-18
-venue: 'arXiv'
+date: 2022-12-04
+venue: 'Asian Conference on Computer Vision (ACCV) (Accepted)'
 authors: 'Kanchana Vaishnavi Gandikota, Jonas Geiping, <b>Zorah Lähner</b>, Adam Czapliński, Michael Moeller'
 teaser: /previews/gandikota2021trainingorarchitecture.png
 arxiv: 'https://arxiv.org/abs/2106.10044'
@@ -28,8 +28,8 @@ bibtex: true
 ## Bibtex
 
     @article{gandikota2021invariance,
-        author 	= "{Kanchana Vaishnavi} Gandikota, Jonas Geiping, Zorah L\"ahner, Adam Czapli\'nski, Michael Moeller",
-        title 	= "Training or Architecture? How to Incorporate Invariance in Neural Networks",
-        booktitle   = "arXiv:2106.10044",
-        year 	= "2021",
+        author 	= {{Kanchana Vaishnavi} Gandikota and Jonas Geiping and Zorah L\"ahner and Adam Czapli\'nski and Michael Moeller},
+        title 	= {A Simple Strategy to Make Neural Networks Provably Invariant},
+        booktitle   = {Asian Conference on Computer Vision (ACCV)},
+        year 	= 2022,
     }

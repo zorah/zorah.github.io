@@ -30,7 +30,7 @@ The official project page is <a href="https://4dqv.mpi-inf.mpg.de/QuAnt/">here</
 
     @inproceedings{seelbach2022quant,
         author 	= {Marcel Seelbach Benkner and Maximilian Krahn and Edith Tretschk and Zorah L\"ahner and Michael Moeller and Vladislav Golyanik},
-        title 	= {{QuAnt: Quantum Annealing with Learnt Couplings}},
+        title 	= { {QuAnt}: Quantum Annealing with Learnt Couplings},
         booktitle = {arXiv:2210.08114},
         year 	= 2022,
     }

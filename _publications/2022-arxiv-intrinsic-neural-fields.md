@@ -4,7 +4,7 @@ collection: preprints
 permalink: /publication/2022-intrinsic-neural-fields
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-03-16
-venue: 'European Conference on Computer Vision (ECCV) (Accepted)'
+venue: 'European Conference on Computer Vision (ECCV)'
 authors: 'Lukas Koestler, Daniel Grittner, Michael Moeller, Daniel Cremers, <b>Zorah Lähner</b>'
 teaser: /previews/koestler2022intrinsic.png
 arxiv: 'https://arxiv.org/abs/2203.07967'

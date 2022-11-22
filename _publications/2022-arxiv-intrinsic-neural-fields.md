@@ -9,6 +9,7 @@ authors: 'Lukas Koestler, Daniel Grittner, Michael Moeller, Daniel Cremers, <b>Z
 teaser: /previews/koestler2022intrinsic.png
 arxiv: 'https://arxiv.org/abs/2203.07967'
 code: https://github.com/tum-vision/intrinsic-neural-fields
+paperurl: 'http://zorah.github.io/files/pdfs/koestler2022intrinisc.pdf'
 categories: [geometricDL]
 bibtex: true
 ---

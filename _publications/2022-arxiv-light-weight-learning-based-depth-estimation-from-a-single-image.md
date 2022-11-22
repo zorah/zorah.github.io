@@ -7,6 +7,7 @@ date: 2022-03-01
 venue: 'ATHENA Research Book (Accepted)'
 authors: 'Zekarias Negese, Hartmut Bauermeister, Michael Moeller, Emanuele Rodolà, <b>Zorah Lähner</b>'
 teaser: /previews/negese2022lightweight.png
+paperurl: 'http://zorah.github.io/files/pdfs/negese2022singleimage.pdf'
 bibtex: true
 ---
 

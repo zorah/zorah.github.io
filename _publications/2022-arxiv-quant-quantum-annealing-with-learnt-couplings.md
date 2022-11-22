@@ -8,6 +8,7 @@ venue: 'arXiv'
 authors: 'Marcel Seelbach Benkner, Maximilian Krahn, Edith Tretschk, <b>Zorah Lähner</b>, Michael Moeller, Vladislav Golyanik'
 teaser: /previews/seelbach2022quant.png
 arxiv: 'https://arxiv.org/abs/2210.08114'
+paperurl: 'http://zorah.github.io/files/pdfs/seelbach2022quant.pdf'
 categories: [quantum]
 bibtex: true
 ---

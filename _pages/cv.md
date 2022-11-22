@@ -67,7 +67,7 @@ Committees
 Reviewing
 ======
 
-Outstanding Reviewer Award 3DV 2021
+Outstanding Reviewer Award 3DV 2021 and ECCV 2022
 
 **Conferences**
 

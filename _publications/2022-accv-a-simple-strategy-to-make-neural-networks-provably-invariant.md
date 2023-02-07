@@ -1,10 +1,10 @@
 ---
 title: "A Simple Strategy to Make Neural Networks Provably Invariant"
-collection: preprints
+collection: publications
 permalink: /publication/2022-accv-a-simple-strategy
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10-04
-venue: 'Asian Conference on Computer Vision (ACCV) (Accepted)'
+venue: 'Asian Conference on Computer Vision (ACCV)'
 authors: 'Kanchana Vaishnavi Gandikota, Jonas Geiping, <b>Zorah Lähner</b>, Adam Czapliński, Michael Moeller'
 teaser: /previews/gandikota2021trainingorarchitecture.png
 paperurl: 'http://zorah.github.io/files/pdfs/gandikota2022orbit.pdf'

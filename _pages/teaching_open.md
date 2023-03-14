@@ -25,25 +25,18 @@ Optional but appreciated:
 
 I will then send you a small programming task related to 3D geometry processing (no prior knowledge required) which you have a week to solve. Afterwards we have a meeting where we will discuss your solution, I will ask some questions about Bachelor level math or data structure topics to make sure you have the needed background knowledge, and I give you a more detailed overview over the project(s).
 
+### Visual Computing Thesis Course
+
+If you are not specifically interested in writing a thesis with me but just in the general topic of visual computing, consider our joint training program with the visual computing chair of Prof. Keuper: [Moodle Course](https://moodle.uni-siegen.de/enrol/index.php?id=30120) [Mattermost Channel](https://chat.rdi.zimt.uni-siegen.de/general/channels/training-for-studienarbeitprojektarbeitthesis) 
+This is a 2-4 weeks course that gives an overview of the skills necessary for the successful completion of a Studienarbeit/Projektarbeit/Thesis. Each student that successfully completes this course is guaranteed a thesis topic for that semester. If you are not set on working with me, this is the preferable and safer way to obtain a thesis topic in the visual computing area. This program is also a good opportunity to self-review and to see if you have the required knowledge and understanding of some basic implementations in computer vision and image processing. Students that do not succeed will be recommended courses they can study to learn some basic principles they may be lacking before they re-apply.
+
 ## Available Projects
 
-Currently available spots: 0
+Currently available spots: 1 (starting date as soon as possible, I will not accept thesis students starting in X months this time)
 
 (there are more topics here than available spots but I can only supervise a certain amount of students at the same time, please do not write emails if it says 0 spots available)
 
 All projects related to deep learning need to be implemented in PyTorch.
-
-### Fast Marching on a 3D Product Manifold
-
-*Summary:* Replace the Dijkstra shortest path implementation in the paper below with fast marching.
-
-*Suitable for:* Bachelor Thesis, Studienarbeit
-
-*Most related paper:* [Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, Lähner et al, 2016](https://zorah.github.io/publication/2016-cvpr-efficient-globally-optimal-2d-to-3d-deformable-shape-matching)
-
-*Requirements:* C++, Matlab (brief is fine, the Matlab part does not need to be changed)
-
-
 
 ### Survey of Autoencoder Architectures
 
@@ -54,23 +47,13 @@ All projects related to deep learning need to be implemented in PyTorch.
 *Requirements:* Python, passed our Deep Learning lecture (exception for Bachelor students)
 
 
-### Non-Rigid Puzzles
+### Analysis of Functional Maps framework using different basis sets
 
-*Summary:* Merging and correspondence calculation between multiple non-rigidly deformed shapes of the same object instance (e.g. humans in the same pose, see example paper).
+*Summary:* Survey, implement and compare the behavior of functional maps when replacing the default Laplace-Beltrami eigenbasis with different sets of basis functions.
 
-*Suitable for:* Master Thesis
+*Suitable for:* Bachelor Thesis, Master Thesis, Studienarbeit
 
-*Most related paper:* [Spectral Unions of Partial Deformable 3D Shapes, Moschella et al, 2021](https://arxiv.org/abs/2104.00514)
+*Requirements:* Matlab or Python experience
 
-*Requirements:* Python, passed any lecture related to machine learning offered in Siegen
+*Related Reading:* [Functional Maps: A Flexible Representation of Maps Between Shapes, Ovsjanikov et al., 2012](https://www.lix.polytechnique.fr/~maks/papers/obsbg_fmaps.pdf)
 
-
-### Reconstruction from Depth Stream
-
-*Summary:* Survey state-of-the-art RGBD reconstruction methods and implement a robust and accurate version using a Azure Kinect video.
-
-*Suitable for:* Bachelor Thesis, Studienarbeit
-
-*Most related paper:* [KinectFusion: Real-Time Dense Surface Mapping and Tracking, Newcombe et al, 2016](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf) (more recent papers should be surveyed)
-
-*Requirements:* Python or C++

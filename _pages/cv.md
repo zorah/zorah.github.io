@@ -48,6 +48,7 @@ Academic Experience
 Funding
 ======
 
+* 2023-2026: **DFG Sachbeihilfe** for the project "Robust Spectral Non-Rigid Shape Correspondences" funding a PhD student for three years (310k Euro)
 * 2022-2024: **KI-Starter grant** from the ministry for culture and science in NRW for the two year project "Robust Geometric Deep Learning" (170k Euro)
 * 2019: **DAAD Short-Term Scholarship for PhD students** funding a two months research visit at Sapienza Università di Roma (3k Euro)
 
@@ -61,6 +62,7 @@ Publications
 Committees
 ======
 
+* [ICIAP 2023](https://sites.google.com/view/iciap-2023) (Area Chair)
 * [Matteo Dellepiane Award 2021](https://conference.stag2021.it/awards/) (Best Thesis Award Comittee)
 * [French German Machine Learning Symposium 2021](https://fgml2021.in.tum.de/) (Program & Website Chair)
 
@@ -93,6 +95,7 @@ Outstanding Reviewer Award 3DV 2021 and ECCV 2022
 * IJCV (International Journal of Computer Vision)
 * JVCI (Journal of Visual Communication and Image Representation)
 * JMIV (Journal of Mathematical Imaging and Vision)
+* CAG (Computers & Graphics)
 
 Talks
 ======

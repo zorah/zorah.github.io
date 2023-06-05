@@ -1,6 +1,8 @@
 ---
-title: "My DFG Project 'Robust Spectral Non-Rigid Shape Correspondences' was funded!"
+title: "I got the research prize of our faculty this year!"
 collection: news
-type: "Funding"
-date: 2023-03-21
+type: "Award"
+date: 2023-05-26
 ---
+
+

@@ -52,12 +52,6 @@ Funding
 * 2022-2024: **KI-Starter grant** from the ministry for culture and science in NRW for the two year project "Robust Geometric Deep Learning" (170k Euro)
 * 2019: **DAAD Short-Term Scholarship for PhD students** funding a two months research visit at Sapienza Università di Roma (3k Euro)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-publication-cv.html %}
-  {% endfor %}</ul>
-
 
 Committees
 ======
@@ -66,10 +60,22 @@ Committees
 * [Matteo Dellepiane Award 2021](https://conference.stag2021.it/awards/) (Best Thesis Award Comittee)
 * [French German Machine Learning Symposium 2021](https://fgml2021.in.tum.de/) (Program & Website Chair)
 
-Reviewing
+
+Awards
 ======
 
-Outstanding Reviewer Award 3DV 2021 and ECCV 2022
+* Research Prize of the Faculty of Science and Technology, University of Siegen, 2023
+* Outstanding Reviewer Award ECCV 2022
+* Outstanding Reviewer Award 3DV 2021
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-publication-cv.html %}
+  {% endfor %}</ul>
+
+Reviewing
+======
 
 **Conferences**
 

@@ -32,7 +32,7 @@ This is a 2-4 weeks course that gives an overview of the skills necessary for th
 
 ## Available Projects
 
-Currently available spots: 1 (starting date as soon as possible, I will not accept thesis students starting in X months this time)
+Currently available spots: 0 
 
 (there are more topics here than available spots but I can only supervise a certain amount of students at the same time, please do not write emails if it says 0 spots available)
 

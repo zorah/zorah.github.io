@@ -9,6 +9,7 @@ authors: 'Marcel Seelbach Benkner, Maximilian Krahn, Edith Tretschk, <b>Zorah LÃ
 teaser: /previews/seelbach2022quant.png
 arxiv: 'https://arxiv.org/abs/2210.08114'
 paperurl: 'http://zorah.github.io/files/pdfs/seelbach2022quant.pdf'
+code: 'https://github.com/MSeelbach/QuAnt'
 categories: [quantum]
 bibtex: true
 ---

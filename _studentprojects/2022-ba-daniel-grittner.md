@@ -7,4 +7,4 @@ venue: "University of Siegen"
 date: 2022-05-01
 location: "Siegen, Germany"
 ---
-Student: Daniel Grittner. Resulted in a paper currently in submission.
+Student: Daniel Grittner. Resulted in a paper published at [ECCV 2022](https://zorah.github.io/publication/2022-intrinsic-neural-fields).

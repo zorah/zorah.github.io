@@ -7,4 +7,4 @@ venue: "University of Siegen"
 date: 2022-06-01
 location: "Siegen, Germany"
 ---
-Student: Sharik Siddiqi.
+Student: Sharik Siddiqi. Resulted in a paper published at [GCPR 2023](https://zorah.github.io/publication/2023-gcpr-network).

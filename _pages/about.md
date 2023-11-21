@@ -17,6 +17,7 @@ Currently, I am a Postdoc at the [Computer Vision  Group](https://www.vsa.inform
 
 News
 ======
-  <ul>{% for post in site.news limit:5 %}
+  <ul>{% assign items = site.news | sort: 'date' | reverse %}
+{% for post in items limit:5 %}
     {% include archive-news.html %}
   {% endfor %}</ul>

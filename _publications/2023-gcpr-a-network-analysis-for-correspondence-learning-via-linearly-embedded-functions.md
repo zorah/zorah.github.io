@@ -5,7 +5,7 @@ permalink: /publication/2023-gcpr-network
 excerpt: 'Calculating correspondences between non-rigidly deformed shapes is the backbone of many applications in 3D computer vision and graphics.
 The functional map approach offers an efficient solution to this problem and has been very popular in learning frameworks due to its low-dimensional and continuous nature. However, most methods rely on the eigenfunctions of the Laplace-Beltrami operator as a basis for the underlying function spaces. While these have many advantages, they are also sensitive to non-isometric deformations and noise. Recently a method to learn the basis functions along with suitable descriptors has been proposed by Marin et al. We do an in-depth analysis of the architecture proposed, including a new training scheme to increase robustness against sampling inconsistencies and an extension to unsupervised training which still obtains results on-par with the supervised approach. '
 date: 2023-09-20
-venue: 'Accepted to German Conference on Pattern Recognition (GCPR)'
+venue: 'German Conference on Pattern Recognition (GCPR)'
 authors: 'Sharik Siddiqi, <b>Zorah Lähner</b>'
 teaser: /previews/siddiqi2023network.png
 categories: [correspondence,geometricDL]
@@ -19,7 +19,7 @@ bibtex: true
 ## Abstract
 
 > Calculating correspondences between non-rigidly deformed shapes is the backbone of many applications in 3D computer vision and graphics.
-The functional map approach offers an efficient solution to this problem and has been very popular in learning frameworks due to its low-dimensional and continuous nature. However, most methods rely on the eigenfunctions of the Laplace-Beltrami operator as a basis for the underlying function spaces. While these have many advantages, they are also sensitive to non-isometric deformations and noise. Recently a method to learn the basis functions along with suitable descriptors has been proposed by Marin et al. We do an in-depth analysis of the architecture proposed, including a new training scheme to increase robustness against sampling inconsistencies and an extension to unsupervised training which still obtains results on-par with the supervised approach. 
+The functional map approach offers an efficient solution to this problem and has been very popular in learning frameworks due to its low-dimensional and continuous nature. However, most methods rely on the eigenfunctions of the Laplace-Beltrami operator as a basis for the underlying function spaces. While these have many advantages, they are also sensitive to non-isometric deformations and noise. Recently a method to learn the basis functions along with suitable descriptors has been proposed by Marin et al. We do an in-depth analysis of the architecture proposed, including a new training scheme to increase robustness against sampling inconsistencies and an extension to unsupervised training which still obtains results on-par with the supervised approach.
 
 ## Resources
 

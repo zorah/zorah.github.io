@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-iccv-sigma
 excerpt: 'We propose a novel mixed-integer programming (MIP) formulation for generating precise sparse correspondences for highly non-rigid shapes. To this end, we introduce a projected Laplace-Beltrami operator (PLBO) which combines intrinsic and extrinsic geometric information to measure the deformation quality induced by predicted correspondences. We integrate the PLBO, together with an orientation-aware regulariser, into a novel MIP formulation that can be solved to global optimality. In contrast to previous methods, our approach is provably invariant to rigid transformations and global scaling, intialisation-free, has optimality guarantees, and scales to high resolution meshes with (empirically observed) linear time. We show state-of-the-art results for sparse non-rigid matching on several challenging 3D datasets, including inconsistent meshing, as well as applications in mesh-to-point-cloud matching.'
 date: 2023-10-01
-venue: 'Accepted to International Conference on Computer Vision (ICCV)'
+venue: 'International Conference on Computer Vision (ICCV)'
 authors: 'Maolin Gao, Paul Roetzer, Marvin Eisenberger, <b>Zorah Lähner</b>, Michael Moeller, Daniel Cremers, Florian Bernard'
 teaser: /previews/gao2023sigma.png
 categories: [correspondence]

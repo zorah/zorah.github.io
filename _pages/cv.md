@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a densified pdf version of my CV [here (updated Aug 22)](https://zorah.github.io/files/ZorahLaehner_CV_website_0822.pdf).
+You can download a densified pdf version of my CV [here (updated Dec 23)](https://zorah.github.io/files/ZorahLaehner_CV_website_1223.pdf).
 
 Education
 ======
@@ -22,7 +22,9 @@ Education
 
 Academic Experience
 ======
-* Since 2021: **Postdoctoral Researcher**
+* Since 2024: **Assistant Professor**
+  * Geometry in Machine Learning Group, University of Bonn and Lamarr Institute
+* Since 2021-2023: **Postdoctoral Researcher**
   * Computer Vision Group, University of Siegen
   * Supervisor: Prof. Dr. Michael Moeller
 * 2015-2021: **Researcher/PhD Candidate**
@@ -56,6 +58,7 @@ Funding
 Committees
 ======
 
+* [ECCV 2024](https://eccv2024.ecva.net/) (Area Chair)
 * [ICIAP 2023](https://sites.google.com/view/iciap-2023) (Area Chair)
 * [Matteo Dellepiane Award 2021](https://conference.stag2021.it/awards/) (Best Thesis Award Comittee)
 * [French German Machine Learning Symposium 2021](https://fgml2021.in.tum.de/) (Program & Website Chair)
@@ -79,13 +82,14 @@ Reviewing
 
 **Conferences**
 
-* CVPR 2016-2020, 2022-2023
-* 3DV 2016-2022
+* CVPR 2016-2020, 2022-2024
+* 3DV 2016-2024
 * BMVC 2016-2018
 * NeurIPS 2019-2020
 * ICCV 2019-2021
 * ECCV 2020-2022
 * SIGGRAPH 2020-2021, 2023
+* Eurographics 2024
 * Pacific Graphics 2023
 * WACV 2021
 * ICLR 2022
@@ -103,6 +107,10 @@ Reviewing
 * JVCI (Journal of Visual Communication and Image Representation)
 * JMIV (Journal of Mathematical Imaging and Vision)
 * CAG (Computers & Graphics)
+
+**PhD Comittees**
+
+* Romain Loiseau - École des Ponts ParisTech, 2023
 
 Talks
 ======

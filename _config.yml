@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zorah Lähner"
   avatar           : "profile.png"
-  bio              : "Postdoc, Shape Analysis and Geometric Deep Learning"
+  bio              : "Assistant Professor (tenure track), Geometry in Machine Learning Group"
   location         :
-  employer         : "University of Siegen, Germany"
+  employer         : "University of Bonn, Germany"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fMc479MAAAAJ&hl=en&oi=ao"
-  email            : zorah.laehner@uni-siegen.de
+  email            : laehner@uni-bonn.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

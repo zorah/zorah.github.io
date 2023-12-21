@@ -7,6 +7,8 @@ date: 2023-10-01
 venue: 'International Conference on Computer Vision (ICCV)'
 authors: 'Maolin Gao, Paul Roetzer, Marvin Eisenberger, <b>Zorah Lähner</b>, Michael Moeller, Daniel Cremers, Florian Bernard'
 teaser: /previews/gao2023sigma.png
+paperurl: 'http://zorah.github.io/files/pdfs/gao2023sigma.pdf'
+arxiv: 'https://arxiv.org/abs/2308.08393'
 categories: [correspondence]
 bibtex: true
 ---

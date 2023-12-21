@@ -7,6 +7,7 @@ date: 2023-12-10
 venue: 'NeuRIPS Workshop on Unifying Representations in Neural Models (UniReps)'
 authors: '<b>Zorah Lähner</b>, Michael Moeller'
 teaser: /previews/laehner2023alignment.png
+paperurl: 'http://zorah.github.io/files/pdfs/laehner2023alignment.pdf'
 categories: [geometricDL]
 bibtex: true
 ---

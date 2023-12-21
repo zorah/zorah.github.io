@@ -8,7 +8,9 @@ venue: 'Neural Information Processing Systems (NeuRIPS)'
 authors: 'Hannah Dröge, <b>Zorah Lähner</b>, Yuval Bahat, Onofre Martorell, Felix Heide, Michael Moeller'
 teaser: /previews/droege2023kissing.png
 arxiv: 'https://arxiv.org/abs/2308.13252'
+paperurl: 'http://zorah.github.io/files/pdfs/droege2023kissing.pdf'
 categories: [geometricDL,correspondence]
+code: 'https://github.com/drgHannah/Kissing-to-Find-a-Match'
 bibtex: true
 ---
 

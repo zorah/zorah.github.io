@@ -8,6 +8,7 @@ date: 2023-09-20
 venue: 'German Conference on Pattern Recognition (GCPR)'
 authors: 'Sharik Siddiqi, <b>Zorah Lähner</b>'
 teaser: /previews/siddiqi2023network.png
+paperurl: 'http://zorah.github.io/files/pdfs/siddiqi2023unsupervised.pdf'
 categories: [correspondence,geometricDL]
 bibtex: true
 ---

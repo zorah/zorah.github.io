@@ -25,6 +25,7 @@ The application should include
 * a deeper dive into what research problems are interesting to you and how they related to "Geometry in Machine Learning"
 * a CV
 * the (provisional) transcript of record from your studies. 
+
 You may also include any additonal material relevant for your application (for example, link to Github repository you are especially proud of, description of interesting projects you did, unrelated achievements that show your dedication) or contact details for reference person you worked with before. 
 
 Applications that are not clearly directed towards my group (including my name and the title of one of my publications does not count) will probably be discarded.

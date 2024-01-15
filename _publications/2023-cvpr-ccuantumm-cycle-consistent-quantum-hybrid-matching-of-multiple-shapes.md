@@ -32,7 +32,7 @@ The official project homepage can be found [here](https://4dqv.mpi-inf.mpg.de/CC
 ## Bibtex
 
     @inproceedings{bhatia2023ccuantumm,
-        author 	= {Harshil Bhatia and Edith Tretschk and Zorah L\"ahner and Marchel {Seelbach Benkner} and Michael Moeller and Christian Theobalt and Vladislav Golyanik},
+        author 	= {Harshil Bhatia and Edith Tretschk and Zorah L\"ahner and Marcel {Seelbach Benkner} and Michael Moeller and Christian Theobalt and Vladislav Golyanik},
         title 	= { CCuantuMM: Cycle-Consistent Quantum-Hybrid Matching of Multiple Shapes },
         booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
         year 	= 2023,

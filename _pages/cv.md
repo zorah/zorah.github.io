@@ -58,6 +58,7 @@ Funding
 Committees
 ======
 
+* [GCPR 2024](https://www.gcpr-vmv.de/year/2024) (Program Chair)
 * [ECCV 2024](https://eccv2024.ecva.net/) (Area Chair)
 * [ICIAP 2023](https://sites.google.com/view/iciap-2023) (Area Chair)
 * [Matteo Dellepiane Award 2021](https://conference.stag2021.it/awards/) (Best Thesis Award Comittee)
@@ -88,7 +89,7 @@ Reviewing
 * NeurIPS 2019-2020
 * ICCV 2019-2021
 * ECCV 2020-2022
-* SIGGRAPH 2020-2021, 2023
+* SIGGRAPH 2020-2021, 2023-2024
 * Eurographics 2024
 * Pacific Graphics 2023
 * WACV 2021
@@ -103,10 +104,11 @@ Reviewing
 
 **Journals**
 
-* IJCV (International Journal of Computer Vision)
-* JVCI (Journal of Visual Communication and Image Representation)
-* JMIV (Journal of Mathematical Imaging and Vision)
 * CAG (Computers & Graphics)
+* IJCV (International Journal of Computer Vision)
+* JMIV (Journal of Mathematical Imaging and Vision)
+* JVCI (Journal of Visual Communication and Image Representation)
+* TOG (Transactions on Graphics)
 
 **PhD Comittees**
 

@@ -28,9 +28,9 @@ The functional map approach offers an efficient solution to this problem and has
 
 ## Bibtex
 
-    @inproceedings{gao2023sigma,
+    @inproceedings{siddiqi2023linearly,
         author 	= { Sharik Siddiqi and Zorah L\"ahner },
         title 	= { A Network Analysis for Correspondence Learning via Linearly-Embedded Functions},
-        booktitle = {Accepted to German Conference on Pattern Recognition (GCPR)},
+        booktitle = {German Conference on Pattern Recognition (GCPR)},
         year 	= 2023,
     }

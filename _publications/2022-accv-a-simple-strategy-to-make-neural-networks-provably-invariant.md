@@ -28,7 +28,7 @@ bibtex: true
 
 ## Bibtex
 
-    @article{gandikota2021invariance,
+    @inproceedings{gandikota2021invariance,
         author 	= { {Kanchana Vaishnavi} Gandikota and Jonas Geiping and Zorah L\"ahner and Adam Czapli\'nski and Michael Moeller},
         title 	= {A Simple Strategy to Make Neural Networks Provably Invariant},
         booktitle   = {Asian Conference on Computer Vision (ACCV)},

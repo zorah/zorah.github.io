@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am currently looking to fill one PhD position with variable starting date plus a potential second one starting early next year (with a topic related to physics). There might be the option for a postdoc position, please contact me directly for more information.
+There are currently no open positions.
 
 ## PhD Positions
 

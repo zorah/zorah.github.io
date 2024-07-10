@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-cvpr-hybrid-functional-maps
 excerpt: 'Non-isometric shape correspondence remains a fundamental challenge in computer vision. Traditional methods using Laplace-Beltrami operator (LBO) eigenmodes face limitations in characterizing high-frequency extrinsic shape changes like bending and creases. We propose a novel approach of combining the non-orthogonal extrinsic basis of eigenfunctions of the elastic thin-shell hessian with the intrinsic ones of the LBO, creating a hybrid spectral space in which we construct functional maps. To this end, we present a theoretical framework to effectively integrate non-orthogonal basis functions into descriptor- and learning-based functional map methods. Our approach can be incorporated easily into existing functional map pipelines across varying applications and is able to handle complex deformations beyond isometries. We show extensive evaluations across various supervised and unsupervised settings and demonstrate significant improvements. Notably, our approach achieves up to 15% better mean geodesic error for non-isometric correspondence settings and up to 45% improvement in scenarios with topological noise.'
 date: 2024-06-01
-venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (Accepted)'
+venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 authors: 'Lennart Bastian*, Yizheng Xie*, Nassir Navab, <b>Zorah Lähner</b>'
 teaser: /previews/bastian2023hybrid.png
 categories: [geometricDL,correspondence]

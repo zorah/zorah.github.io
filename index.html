@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    
+    <!-- Meta refresh redirect (fallback) -->
+    <meta http-equiv="refresh" content="3; url=https://geometryinml.cs.uni-bonn.de">
+    
+    <!-- Canonical link for SEO -->
+    <link rel="canonical" href="https://geometryinml.cs.uni-bonn.de">
+    
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #134e13 0%, #2d5016 100%);
+            color: white;
+            text-align: center;
+        }
+        
+        .redirect-message {
+            background: rgba(46, 125, 50, 0.15);
+            backdrop-filter: blur(10px);
+            padding: 2rem;
+            border-radius: 15px;
+            border: 1px solid rgba(76, 175, 80, 0.3);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+        }
+        
+        .redirect-image {
+            width: 200px;
+            height: 200px;
+            border-radius: 10%;
+            object-fit: cover;
+            margin: 50px auto 1.5rem;
+            display: block;
+            border: 2px solid rgba(129, 199, 132, 0.4);
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+        }
+        
+        .spinner {
+            border: 3px solid rgba(129, 199, 132, 0.3);
+            border-top: 3px solid #81c784;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        a {
+            color: white;
+            text-decoration: underline;
+        }
+        
+        a:hover {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="redirect-message">
+        This website is not maintained anymore and all up-to-date info will only be on my groups homepage. As a thank you for remembering my old webpage, have a picture of my cats!
+        <!-- Replace 'placeholder-logo.png' with your actual image URL -->
+        <img src="kitties.jpeg" alt="Logo" class="redirect-image">
+        <div class="spinner"></div>
+        <h1>Redirecting...</h1>
+        <p>You are being redirected to <a href="https://geometryinml.cs.uni-bonn.de">geometryinml.cs.uni-bonn.de</a></p>
+        <p><small>If you are not redirected automatically, <a href="https://geometryinml.cs.uni-bonn.de">click here</a>.</small></p>
+    </div>
+
+    <script>
+        // JavaScript redirect (primary method)
+       setTimeout(function() {
+            window.location.href = "https://geometryinml.cs.uni-bonn.de";
+        }, 3000);
+        
+        // Fallback with slight delay
+        setTimeout(function() {
+            window.location.replace("https://geometryinml.cs.uni-bonn.de");
+        }, 3100);
+    </script>
+</body>
+</html>
